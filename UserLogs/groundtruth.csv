@@ -1,0 +1,22 @@
+,activity,user,pc,id,content,date
+0,File Open,admin35254,121.36.35.254,709dd363e29cbf6186d83cdf146768b2,explorer  FileIO/Read  D:\workplace-df\Deeplogfromxzq.zip,05/12/2022 21:18:25
+1,File Write,admin35254,121.36.35.254,112244b07c60ce51728cde61ef888ffe,explorer  FileIO/Write  D:\workplace-df\Deeplogfromxzq (2).zip,05/12/2022 21:18:26
+2,WWW Visit,admin35254,121.36.35.254,034acc01cef746cf4bd7da279c15c430,chrome  TcpIp/Send  192.168.0.110 to 204.79.197.200,05/12/2022 21:19:07
+3,WWW Visit,admin35254,121.36.35.254,065a4decc2de9ba1fdecc0a3d1be0e5b,chrome  TcpIp/Recv  192.168.0.110 to 204.79.197.200,05/12/2022 21:19:07
+4,File Open,admin35254,121.36.35.254,d61ae1e767889d5ff071c9bf0415a05f,chrome  FileIO/Read  D:\workplace-df\sec.zip,05/12/2022 21:22:09
+5,WWW Visit,admin35254,121.36.35.254,d4892197f3978ef8619cb93906a95560,chrome  TcpIp/Send  192.168.0.110 to 140.249.34.14,05/12/2022 21:22:10
+6,WWW Visit,admin35254,121.36.35.254,c43abee40aa63b0f9d675716f68ec221,chrome  TcpIp/Recv  192.168.0.110 to 140.249.34.14,05/12/2022 21:22:10
+7,WWW Visit,admin35254,121.36.35.254,cc586c2250c244ad383e3812f85dcbe8,chrome  TcpIp/Send  192.168.0.110 to 140.249.34.14,05/12/2022 21:22:49
+8,WWW Visit,admin35254,121.36.35.254,c6e087b264c51e2fab9deb768ff0345a,chrome  TcpIp/Recv  192.168.0.110 to 140.249.34.14,05/12/2022 21:22:51
+9,File Write,admin4418,121.36.44.18,8212155dd286b53efc9c524964c94b86,explorer  FileIO/Write  C:\Users\Public\Mimikatz.zip,05/13/2022 12:09:24
+10,File Open,admin4418,121.36.44.18,d125f75d7dab193206f4ad96512915a1,explorer  FileIO/Read  C:\Users\Public\Mimikatz.zip,05/13/2022 12:09:31
+11,WWW Visit,admin4418,121.36.44.18,fcabe845c52ded51dd6337653102eb05,SNETCracker  TcpIp/Recv  192.168.0.74 to 20.205.243.166,05/13/2022 14:12:06
+12,WWW Visit,admin4418,121.36.44.18,2432654dc6f14d9a64e918b128d3d746,SNETCracker  TcpIp/Send  192.168.0.74 to 20.205.243.166,05/13/2022 14:12:06
+13,File Open,admin4418,121.36.44.18,fab6e3375d1a5a2262e6a37cace7c7a7,SNETCracker  FileIO/Read  C:\Users\Public\⹤\⹤\config\servicesports.txt,05/13/2022 14:12:06
+14,File Open,admin4418,121.36.44.18,d84e2d3be803739fd7ead77bb4155388,SNETCracker  FileIO/Read  C:\Users\Public\⹤\⹤\config\servicesnames.txt,05/13/2022 14:12:06
+15,WWW Visit,admin4418,121.36.44.18,e78186b7e2cee82b4e9ed29732474536,SNETCracker  TcpIp/Recv  192.168.0.74 to 192.168.0.110,05/13/2022 14:12:44
+16,WWW Visit,admin4418,121.36.44.18,cd5df9314be2775061562247625d046f,SNETCracker  TcpIp/Send  192.168.0.74 to 192.168.0.110,05/13/2022 14:12:44
+17,WWW Visit,admin4418,121.36.44.18,b31840a9bb9694808f5d3961fd3e594e,mstsc  TcpIp/Send  192.168.0.74 to 192.168.0.110,05/13/2022 14:18:22
+18,WWW Visit,admin4418,121.36.44.18,050fed7a8781ba80fdef074b8e07a9b1,mstsc  TcpIp/Recv  192.168.0.74 to 192.168.0.110,05/13/2022 14:18:22
+19,File Open,admin35254,121.36.35.254,fd5f7a1e0aca8f020d35fdbc5effd282,powershell  FileIO/Read  D:\workplace-df\Deeplogfromxzq.zip,05/13/2022 14:29:57
+20,File Open,admin35254,121.36.35.254,206fc5cbe0994983bf0783ae84a23e4f,powershell  FileIO/Read  D:\workplace-df\nodemerge-ccs2018.pdf,05/13/2022 14:30:06

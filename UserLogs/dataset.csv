@@ -1,0 +1,683 @@
+,activity,user,pc,id,content,date
+0,Logon,admin4418,121.36.44.18,236e44f4b57919db3c144a605189fe5c,admin Logon,05/09/2022 22:56:59
+1,Logon,admin35254,121.36.35.254,ce51c4ade91a5f1d984d3f3a54fbef74,admin Logon,05/09/2022 22:56:59
+2,File Write,admin4418,121.36.44.18,eb25920756c75b72e36a0b4cf552c3e8,notepad FileIO/Write benign_collect_time.txt.txt,05/09/2022 22:57:06
+3,File Write,admin35254,121.36.35.254,fec90883a9c5dc1b9bdbc2bed9dd5044,explorer FileIO/Write benign.txt.lnk,05/09/2022 22:57:09
+4,File Open,admin35254,121.36.35.254,7fc252abf4b068f5a9f27a85f066ef70,MsMpEng FileIO/Read benign.txt.lnk,05/09/2022 22:57:09
+5,File Open,admin35254,121.36.35.254,be7ac32f0c6fc71da7c44ee60095811f,explorer FileIO/Read CachedImage_1536_864_POS4.jpg,05/09/2022 22:57:09
+6,File Write,admin35254,121.36.35.254,981c2294d3e125e7048e51397c5e88f6,notepad FileIO/Write benign_collect_time.txt,05/09/2022 22:57:40
+7,File Open,admin35254,121.36.35.254,1e852ace593ef6bfd6c386da5dadb3d2,MsMpEng FileIO/Read benign_collect_time.txt,05/09/2022 22:57:45
+8,File Write,admin4418,121.36.44.18,10537945b41d82f55cc1596ea0eb192b,explorer FileIO/Write CachedImage_1366_768_POS4.jpg,05/09/2022 22:58:03
+9,File Write,admin35254,121.36.35.254,4565bd96128c7e51e7851466ab988e22,explorer FileIO/Write CachedImage_1536_864_POS4.jpg,05/09/2022 22:58:03
+10,File Open,admin4418,121.36.44.18,2511dbf356892225c6d97e30ead3238d,explorer FileIO/Read CachedImage_1366_768_POS4.jpg,05/09/2022 22:58:11
+11,File Open,admin35254,121.36.35.254,67fbb2541968f9632d5b5b862bb91246,LogonUI FileIO/Read LockScreen___1536_0864_notdimmed.jpg,05/09/2022 23:02:32
+12,File Open,admin35254,121.36.35.254,0731f5f71cc84ca36296248b7add8b53,explorer FileIO/Read $IBMV5NX.txt,05/09/2022 23:02:33
+13,File Open,admin4418,121.36.44.18,4f80892e2a8d7a7af18701e2a8c9bb56,MsMpEng FileIO/Read Mimikatz.zip,05/10/2022 03:58:43
+14,File Open,admin4418,121.36.44.18,319d9fced5b00d4a855cc25b526720d4,MsMpEng FileIO/Read SharpBitsConsole.zip,05/10/2022 03:58:44
+15,File Open,admin35254,121.36.35.254,8e9b3bdb10dc6a2981ffd66446dbbab6,MsMpEng FileIO/Read img0.jpg,05/10/2022 05:36:03
+16,File Open,admin35254,121.36.35.254,a9c4a3baee0c1b90a79e198a8ec69100,MsMpEng FileIO/Read img0.jpg,05/10/2022 05:36:22
+17,File Open,admin35254,121.36.35.254,911d9f063761b4c5605a75c94ccd7f8d,MsMpEng FileIO/Read SharpBitsConsole.zip,05/10/2022 05:36:22
+18,File Open,admin4418,121.36.44.18,0ac21c0318a6e278c0a6ab708b4c0878,MsMpEng FileIO/Read 0.0.filtertrie.intermediate.txt,05/10/2022 07:42:45
+19,File Open,admin4418,121.36.44.18,3a424cb870e5d26dcc27039a2a701092,MsMpEng FileIO/Read AppCache132966133778616336.txt.~tmp,05/10/2022 07:42:45
+20,File Open,admin35254,121.36.35.254,b362373780410f6f047729bb2916fda9,SearchUI FileIO/Read AppsGlobals.txt,05/10/2022 15:39:31
+21,File Open,admin35254,121.36.35.254,9de733eb0d72adde229221a0b33a5985,SearchUI FileIO/Read AppsConversions.txt,05/10/2022 15:39:31
+22,File Write,admin35254,121.36.35.254,39084d13cc67879c070a70cad4752528,SearchUI FileIO/Write 0.0.filtertrie.intermediate.txt,05/10/2022 15:39:31
+23,File Write,admin35254,121.36.35.254,6967cbf5c2a7cf6562da8156e425b9c5,SearchUI FileIO/Write 0.1.filtertrie.intermediate.txt,05/10/2022 15:39:31
+24,File Write,admin35254,121.36.35.254,f261af4d97607cf6fa47d3d4e254dce1,SearchUI FileIO/Write 0.2.filtertrie.intermediate.txt,05/10/2022 15:39:31
+25,File Open,admin35254,121.36.35.254,821f392b5b46b1b5ded16c022e7319a4,SearchUI FileIO/Read Appssynonyms.txt,05/10/2022 15:39:31
+26,File Write,admin35254,121.36.35.254,874c2a759ce55c731afd93911db9c382,SearchUI FileIO/Write AppCache132966417387661398.txt.~tmp,05/10/2022 15:39:31
+27,File Open,admin35254,121.36.35.254,b185f00c4481d42a198ca20c2818d166,explorer FileIO/Read CachedImage_1536_864_POS4.jpg,05/10/2022 15:39:32
+28,File Write,admin4418,121.36.44.18,8ba8e2727ceb920ebe998192d4d2342d,explorer FileIO/Write CachedImage_1536_864_POS4.jpg,05/10/2022 19:37:48
+29,File Open,admin4418,121.36.44.18,28c6d96687cf11715d2408d31cca1ac2,explorer FileIO/Read CachedImage_1536_864_POS4.jpg,05/10/2022 19:37:48
+30,File Open,admin4418,121.36.44.18,7a6872480546efbf46a4acdc89f0ee46,LogonUI FileIO/Read {BD6AF6C1-1942-4F4C-8180-E2432CB8996C}-Image192.jpg,05/10/2022 19:37:48
+31,File Open,admin4418,121.36.44.18,05fa6b2a295e5d99793cceb1b6401e4f,LogonUI FileIO/Read LockScreen___1536_0864_notdimmed.jpg,05/10/2022 19:37:48
+32,WWW Visit,admin4418,121.36.44.18,b8c82fdf2c609b7436ac29d88d99d7d1,explorer  TcpIp/Send  192.168.0.74 to 104.70.235.147,05/10/2022 19:37:51
+33,WWW Visit,admin4418,121.36.44.18,ed61d3a1c1c669df226eb3467a78fa24,explorer  TcpIp/Recv  192.168.0.74 to 104.70.235.147,05/10/2022 19:37:52
+34,File Write,admin4418,121.36.44.18,ef16be6e296e1e21397ec5271a235816,explorer FileIO/Write CachedImage_1366_768_POS4.jpg,05/10/2022 19:38:26
+35,File Open,admin4418,121.36.44.18,742094938377a4a22f7cf27a699ed9ae,explorer FileIO/Read CachedImage_1366_768_POS4.jpg,05/10/2022 19:38:34
+36,File Open,admin35254,121.36.35.254,674e648f9fc7fc4bd7d6c3aa4c4462cf,LogonUI FileIO/Read LockScreen___1536_0864_notdimmed.jpg,05/10/2022 19:39:39
+37,File Write,admin35254,121.36.35.254,171a3463e11252d5a34fcc86bc8c5721,explorer FileIO/Write CachedImage_1536_864_POS4.jpg,05/10/2022 19:39:39
+38,File Open,admin35254,121.36.35.254,aba2bf260b9fa8ce3036404a90157ec5,explorer FileIO/Read $IBMV5NX.txt,05/10/2022 19:39:40
+39,WWW Visit,admin4418,121.36.44.18,175613260ecb450340e4ae99a05b1605,explorer  TcpIp/Recv  192.168.0.74 to 104.70.235.147,05/10/2022 19:39:41
+40,File Open,admin35254,121.36.35.254,348453a1cb62b0a65bcff892e4d2ef12,MsMpEng FileIO/Read benign.txt.lnk,05/10/2022 19:39:57
+41,File Write,admin35254,121.36.35.254,837f3629f1781f276b7465c554a61810,explorer FileIO/Write benign.txt.lnk,05/10/2022 19:39:57
+42,File Write,admin35254,121.36.35.254,8d25db081b16f55105a4489c6dcb2a1c,svchost FileIO/Write WER36E5.tmp.txt,05/10/2022 19:40:21
+43,File Open,admin4418,121.36.44.18,d1c0dbecb31fa127ef051f86636d350b,MsMpEng FileIO/Read AppCache132966564577808548.txt.~tmp,05/10/2022 19:40:44
+44,File Open,admin4418,121.36.44.18,f651e03b4f3afbc2ee2a1c57f73ecf64,MsMpEng FileIO/Read 0.0.filtertrie.intermediate.txt,05/10/2022 19:40:45
+45,File Write,admin35254,121.36.35.254,802e932d0163168e463c342db0fa6f47,WerFault FileIO/Write WERADBC.tmp.appcompat.txt,05/10/2022 19:40:52
+46,File Open,admin35254,121.36.35.254,ee9bba1cfcd57659b03ce3cd2f81556c,WerFault FileIO/Read WER36E5.tmp.txt,05/10/2022 19:40:52
+47,File Write,admin35254,121.36.35.254,5200bccb06724f5951c7d41b3c638a4d,WerFault FileIO/Write WER36E5.tmp.txt,05/10/2022 19:40:52
+48,File Open,admin35254,121.36.35.254,e3d0cca2e5e4befd0de724cef0c4611b,WerFault FileIO/Read WERADBC.tmp.appcompat.txt,05/10/2022 19:40:52
+49,File Write,admin35254,121.36.35.254,2589a61191ff7e494d8fa11f3edfaa03,WerFault FileIO/Write WERADBC.tmp.appcompat.txt,05/10/2022 19:40:52
+50,File Open,admin4418,121.36.44.18,d710764090249f9024892b834448dc29,MsMpEng FileIO/Read telemetry-dll-ramp-value.txt,05/10/2022 20:43:16
+51,File Open,admin4418,121.36.44.18,0cdd4b9ae9006e5b6054ebff14798adc,Microsoft.SharePoint FileIO/Read telemetry-dll-ramp-value.txt,05/10/2022 20:43:16
+52,File Write,admin4418,121.36.44.18,aed97d9b7712314d060fa6e537a2310f,Microsoft.SharePoint FileIO/Write telemetry-dll-ramp-value.txt,05/10/2022 20:43:16
+53,File Open,admin35254,121.36.35.254,43bd8e5745c55c882a22e2386aac09e3,MsMpEng FileIO/Read windows.data.pdf.dll,05/10/2022 21:18:02
+54,File Open,admin35254,121.36.35.254,7eb92cad289e2c58df3d8f9b9e53d2a4,MsMpEng FileIO/Read xpsdocumenttargetprint.dll,05/10/2022 21:18:04
+55,File Open,admin35254,121.36.35.254,263fcf29478750dbf7c86906bedb0093,MsMpEng FileIO/Read xpsdocumenttargetprint.dll,05/10/2022 21:18:08
+56,File Open,admin35254,121.36.35.254,72d9714e1bad81ee97744ed7f2b14177,MsMpEng FileIO/Read windows.data.pdf.dll,05/10/2022 21:18:08
+57,File Open,admin4418,121.36.44.18,fbb85031ffff0211f2c3f814ee443d01,MsMpEng FileIO/Read AppCache132966709745930405.txt.~tmp,05/10/2022 23:42:41
+58,File Open,admin4418,121.36.44.18,d0aaea5893188d79c7dda940327ff451,MsMpEng FileIO/Read 0.0.filtertrie.intermediate.txt,05/10/2022 23:42:41
+59,File Open,admin4418,121.36.44.18,ec2a54333e050ee4d2600f44c94142fd,MsMpEng FileIO/Read AppCache132966853787196966.txt.~tmp,05/11/2022 03:42:45
+60,File Open,admin4418,121.36.44.18,b451c36a8339b275c884be79756e5abc,MsMpEng FileIO/Read AppCache132966709745930405.txt,05/11/2022 03:42:45
+61,File Open,admin4418,121.36.44.18,c9971523570e96cff31cb5c7823d1594,MsMpEng FileIO/Read 0.0.filtertrie.intermediate.txt,05/11/2022 03:42:45
+62,File Open,admin4418,121.36.44.18,f09770457ce1b87212ae2090e2233f06,MsMpEng FileIO/Read img2.jpg,05/11/2022 03:57:46
+63,File Open,admin4418,121.36.44.18,3af8292350046498d14865fabd7f6fc5,MsMpEng FileIO/Read img0_768x1366.jpg,05/11/2022 03:57:46
+64,File Open,admin4418,121.36.44.18,e6d9b5856dd4d0533e3feb2579e553a0,MsMpEng FileIO/Read sdengin2.dll.mui,05/11/2022 03:57:47
+65,File Open,admin4418,121.36.44.18,d2e583e88aaeb747f775b338e9bc8c9c,MsMpEng FileIO/Read img7.jpg,05/11/2022 03:57:47
+66,File Open,admin4418,121.36.44.18,c850be98ed34ea4b458e995709686733,MsMpEng FileIO/Read security_watermark.jpg,05/11/2022 03:57:47
+67,File Open,admin4418,121.36.44.18,5a0f64a894dff357ba61dca0e821c386,MsMpEng FileIO/Read 29.jpg,05/11/2022 03:57:48
+68,File Open,admin4418,121.36.44.18,0ba0a88655b49489fa86ba886fc388b2,MsMpEng FileIO/Read img1.jpg,05/11/2022 03:57:49
+69,File Open,admin4418,121.36.44.18,c29c9b8dd13036f1c0cbf3e43c16df1b,MsMpEng FileIO/Read microsoftsolitairewidetile.scale-200.jpg,05/11/2022 03:57:49
+70,File Open,admin35254,121.36.35.254,c9890fd02d99f235aac6343127fd441f,MsMpEng FileIO/Read img0.jpg,05/11/2022 05:34:07
+71,File Open,admin35254,121.36.35.254,f5721cdc123bd3f505ede090818b36a3,MsMpEng FileIO/Read SharpBitsConsole.zip,05/11/2022 05:34:26
+72,File Open,admin35254,121.36.35.254,6c58ef7dc98247c51f88d0a0bb88e32e,MsMpEng FileIO/Read img0.jpg,05/11/2022 05:34:27
+73,File Open,admin4418,121.36.44.18,e55f9cb4e8d29b724b7acd75e69044a5,svchost FileIO/Read $IJVVEQC.txt,05/11/2022 05:48:19
+74,File Open,admin4418,121.36.44.18,537e54488ee1b0e46c2899e4d2d52738,svchost FileIO/Read $I4GERX7.txt,05/11/2022 05:48:19
+75,File Open,admin4418,121.36.44.18,31b6c30d2d43a1d7f8805672abfe743e,MsMpEng FileIO/Read AppCache132966997791863323.txt.~tmp,05/11/2022 07:42:45
+76,File Open,admin4418,121.36.44.18,9dd1fa55e67d00e08c1c0ed1aa3bae27,MsMpEng FileIO/Read 0.0.filtertrie.intermediate.txt,05/11/2022 07:42:47
+77,Logoff,admin35254,121.36.35.254,d3da81a314274a50a16a688871c4bd80,admin Logoff,05/11/2022 14:30:41
+78,Logoff,admin4418,121.36.44.18,c08cc42882c782076057f01b8ecc7500,admin Logoff,05/11/2022 14:30:41
+79,Logon,admin4418,121.36.44.18,5b2d717e7b3495804c1f2f0fa5155088,admin Logon,05/12/2022 21:06:03
+80,Logon,admin35254,121.36.35.254,694db051c9b6187d6cea772bd8da607f,admin Logon,05/12/2022 21:06:03
+81,File Write,admin35254,121.36.35.254,c9cac82acf0b2e6e16f2222819e11ea5,notepad FileIO/Write anomaly_collect_time.txt,05/12/2022 21:06:15
+82,File Open,admin35254,121.36.35.254,500085fdde69060fbf8b74bed1111772,MsMpEng FileIO/Read anomaly_collect_time.txt,05/12/2022 21:06:15
+83,File Write,admin35254,121.36.35.254,d79ada6cc336e773a58b21c1aadb6dfc,explorer FileIO/Write CachedImage_1536_864_POS4.jpg,05/12/2022 21:06:32
+84,File Open,admin35254,121.36.35.254,8cdf2bbcdd1f4b69943fabbb6e5cbcf5,LogonUI FileIO/Read LockScreen___1536_0864_notdimmed.jpg,05/12/2022 21:11:37
+85,File Open,admin35254,121.36.35.254,709dd363e29cbf6186d83cdf146768b2,explorer FileIO/Read Deeplogfromxzq.zip,05/12/2022 21:18:25
+86,File Write,admin35254,121.36.35.254,112244b07c60ce51728cde61ef888ffe,explorer FileIO/Write (2).zip,05/12/2022 21:18:26
+87,WWW Visit,admin35254,121.36.35.254,034acc01cef746cf4bd7da279c15c430,chrome  TcpIp/Send  192.168.0.110 to 204.79.197.200,05/12/2022 21:19:07
+88,WWW Visit,admin35254,121.36.35.254,065a4decc2de9ba1fdecc0a3d1be0e5b,chrome  TcpIp/Recv  192.168.0.110 to 204.79.197.200,05/12/2022 21:19:07
+89,WWW Visit,admin35254,121.36.35.254,be7d9aa717c4ffa8c86a2d95f8cf40bd,chrome  TcpIp/Recv  192.168.0.110 to 168.63.134.114,05/12/2022 21:20:15
+90,WWW Visit,admin35254,121.36.35.254,f314217bc5fd80b17b11cac5f1278f82,chrome  TcpIp/Send  192.168.0.110 to 168.63.134.114,05/12/2022 21:20:15
+91,WWW Visit,admin35254,121.36.35.254,cf30bac023013b17492d9db78d503ce3,chrome  TcpIp/Send  192.168.0.110 to 103.215.142.107,05/12/2022 21:20:15
+92,WWW Visit,admin35254,121.36.35.254,15161d125879e05be1a8a9830a863bda,chrome  TcpIp/Send  192.168.0.110 to 13.107.246.49,05/12/2022 21:20:15
+93,WWW Visit,admin35254,121.36.35.254,812fe311ec49be37a0ca3ccfcd7ce257,chrome  TcpIp/Recv  192.168.0.110 to 103.215.142.107,05/12/2022 21:20:15
+94,WWW Visit,admin35254,121.36.35.254,d636a12cd90d0637aef107a90aea09f0,chrome  TcpIp/Recv  192.168.0.110 to 13.107.246.49,05/12/2022 21:20:15
+95,WWW Visit,admin35254,121.36.35.254,a85f5655505165a594514c2209b99cfe,chrome  TcpIp/Recv  192.168.0.110 to 220.181.111.91,05/12/2022 21:20:24
+96,WWW Visit,admin35254,121.36.35.254,6845144f2e9f298c03a3da49881faf85,chrome  TcpIp/Send  192.168.0.110 to 106.225.194.38,05/12/2022 21:20:24
+97,WWW Visit,admin35254,121.36.35.254,6efb4cbe9bf0d93a49f00e66085becbd,chrome  TcpIp/Recv  192.168.0.110 to 106.225.194.38,05/12/2022 21:20:24
+98,WWW Visit,admin35254,121.36.35.254,85671e5ab6013fac5e8068897b598d12,chrome  TcpIp/Send  192.168.0.110 to 220.181.33.24,05/12/2022 21:20:24
+99,WWW Visit,admin35254,121.36.35.254,245f0a9eeda23dcfb6ba59a8c0e432ab,chrome  TcpIp/Send  192.168.0.110 to 36.99.225.38,05/12/2022 21:21:32
+100,WWW Visit,admin35254,121.36.35.254,7fd067ebe6d1707ed4233c40644e7109,chrome  TcpIp/Send  192.168.0.110 to 121.227.7.48,05/12/2022 21:21:32
+101,WWW Visit,admin35254,121.36.35.254,e23cfc4fcc6d8286bd3d995121c321e0,chrome  TcpIp/Send  192.168.0.110 to 182.106.137.35,05/12/2022 21:21:32
+102,WWW Visit,admin35254,121.36.35.254,39d8875ba8aff40aad3a403519acfb6b,chrome  TcpIp/Recv  192.168.0.110 to 182.106.137.35,05/12/2022 21:21:32
+103,WWW Visit,admin35254,121.36.35.254,be9619cc5cceb159a718b6c45739c96c,chrome  TcpIp/Recv  192.168.0.110 to 220.181.107.239,05/12/2022 21:21:32
+104,WWW Visit,admin35254,121.36.35.254,d3078bdbcc74a9f888579054c1aa710d,chrome  TcpIp/Recv  192.168.0.110 to 124.238.241.35,05/12/2022 21:21:32
+105,WWW Visit,admin35254,121.36.35.254,1ea4b0bc08253c07a3320907bca67bc9,chrome  TcpIp/Recv  192.168.0.110 to 180.97.34.43,05/12/2022 21:21:33
+106,WWW Visit,admin35254,121.36.35.254,c51562a09a120c561f9de33ed6f370b7,chrome  TcpIp/Recv  192.168.0.110 to 117.27.149.201,05/12/2022 21:21:33
+107,WWW Visit,admin35254,121.36.35.254,c0db85ce14c786a7760f5eae7de0134f,chrome  TcpIp/Send  192.168.0.110 to 117.27.149.201,05/12/2022 21:21:33
+108,WWW Visit,admin35254,121.36.35.254,85f2bccbee802751740af3624f78f159,chrome  TcpIp/Recv  192.168.0.110 to 103.235.47.16,05/12/2022 21:21:33
+109,WWW Visit,admin35254,121.36.35.254,2ee4abaf78f3bb354dfa27e26f50aa87,chrome  TcpIp/Send  192.168.0.110 to 103.235.47.16,05/12/2022 21:21:33
+110,WWW Visit,admin35254,121.36.35.254,18e4504d197d523e8f487f6ed18878cb,chrome  TcpIp/Send  192.168.0.110 to 180.97.34.43,05/12/2022 21:21:33
+111,WWW Visit,admin35254,121.36.35.254,e0b87fe80b8267ae2b59db63fb3f8a7b,chrome  TcpIp/Recv  192.168.0.110 to 157.255.77.181,05/12/2022 21:21:35
+112,WWW Visit,admin35254,121.36.35.254,c2c5d011771e48b301b2f328d0ea6cb9,chrome  TcpIp/Send  192.168.0.110 to 157.255.77.181,05/12/2022 21:21:35
+113,File Open,admin35254,121.36.35.254,d61ae1e767889d5ff071c9bf0415a05f,chrome FileIO/Read sec.zip,05/12/2022 21:22:09
+114,File Write,admin35254,121.36.35.254,8713b0f58ff6c8630b7d5ceda420e244,explorer FileIO/Write sec.zip.lnk,05/12/2022 21:22:09
+115,WWW Visit,admin35254,121.36.35.254,d4892197f3978ef8619cb93906a95560,chrome  TcpIp/Send  192.168.0.110 to 140.249.34.14,05/12/2022 21:22:10
+116,WWW Visit,admin35254,121.36.35.254,c43abee40aa63b0f9d675716f68ec221,chrome  TcpIp/Recv  192.168.0.110 to 140.249.34.14,05/12/2022 21:22:10
+117,WWW Visit,admin35254,121.36.35.254,dcdc0593b11793c963eca1efa80aed70,chrome  TcpIp/Recv  192.168.0.110 to 180.97.34.232,05/12/2022 21:22:30
+118,WWW Visit,admin35254,121.36.35.254,986092221e55690c9bfa4e7469a8fa82,chrome  TcpIp/Recv  192.168.0.110 to 36.99.225.38,05/12/2022 21:22:37
+119,WWW Visit,admin35254,121.36.35.254,cc586c2250c244ad383e3812f85dcbe8,chrome  TcpIp/Send  192.168.0.110 to 140.249.34.14,05/12/2022 21:22:49
+120,WWW Visit,admin35254,121.36.35.254,c6e087b264c51e2fab9deb768ff0345a,chrome  TcpIp/Recv  192.168.0.110 to 140.249.34.14,05/12/2022 21:22:51
+121,WWW Visit,admin35254,121.36.35.254,6317692eff2f4cb33b84f8db4d9af4b7,chrome  TcpIp/Recv  192.168.0.110 to 117.27.149.201,05/12/2022 21:22:58
+122,WWW Visit,admin35254,121.36.35.254,dbcf266cd6b6edabf19d7ccb290053f1,chrome  TcpIp/Recv  192.168.0.110 to 103.215.142.107,05/12/2022 21:23:15
+123,WWW Visit,admin35254,121.36.35.254,bfd51ec3a4fe97c4e28c212f0342c546,chrome  TcpIp/Recv  192.168.0.110 to 47.95.53.4,05/12/2022 21:23:30
+124,WWW Visit,admin35254,121.36.35.254,e458513674dbcd9142ab5360787c2d59,chrome  TcpIp/Recv  192.168.0.110 to 124.238.241.35,05/12/2022 21:23:32
+125,WWW Visit,admin35254,121.36.35.254,ded52d78a2f94d92e6780f05fb9f8d48,chrome  TcpIp/Recv  192.168.0.110 to 182.106.137.35,05/12/2022 21:23:32
+126,WWW Visit,admin35254,121.36.35.254,50b8bfd39cd07e8adcf8c2a96b0bef73,chrome  TcpIp/Recv  192.168.0.110 to 116.114.98.35,05/12/2022 21:23:33
+127,WWW Visit,admin35254,121.36.35.254,9a0bfb6405fd36871d0fd13f01a2e986,chrome  TcpIp/Recv  192.168.0.110 to 23.35.111.96,05/12/2022 21:25:14
+128,WWW Visit,admin35254,121.36.35.254,15464af9609d996eb7a555f39fe61b4a,chrome  TcpIp/Recv  192.168.0.110 to 203.208.50.162,05/12/2022 21:25:27
+129,WWW Visit,admin35254,121.36.35.254,97b58402bf68e52c7994cb0ee58c2947,chrome  TcpIp/Recv  192.168.0.110 to 142.250.199.83,05/12/2022 21:39:49
+130,WWW Visit,admin35254,121.36.35.254,6b9dac30455de9218c3e5c8039d696cc,chrome  TcpIp/Send  192.168.0.110 to 142.250.199.83,05/12/2022 21:39:49
+131,WWW Visit,admin35254,121.36.35.254,69fd73a69bbe5d18dd889ab0b6d84464,chrome  TcpIp/Send  192.168.0.110 to 35.201.68.45,05/12/2022 21:54:29
+132,WWW Visit,admin35254,121.36.35.254,e9f2a4e5c785488df53f15280bab373c,chrome  TcpIp/Recv  192.168.0.110 to 35.201.68.45,05/12/2022 21:54:29
+133,WWW Visit,admin35254,121.36.35.254,3fa29d80d38e98f988875f0648693235,chrome  TcpIp/Send  192.168.0.110 to 203.208.50.162,05/12/2022 22:07:38
+134,WWW Visit,admin35254,121.36.35.254,71fd4d2a3f577e3c2454409524995ee4,chrome  TcpIp/Recv  192.168.0.110 to 203.208.50.162,05/12/2022 22:07:38
+135,WWW Visit,admin35254,121.36.35.254,523d00a2e7932c58683d49a239f0be4e,chrome  TcpIp/Send  192.168.0.110 to 203.208.50.34,05/12/2022 22:37:38
+136,WWW Visit,admin35254,121.36.35.254,49b870b339c9602f0786c3a9ef6dd638,chrome  TcpIp/Recv  192.168.0.110 to 203.208.50.34,05/12/2022 22:37:38
+137,WWW Visit,admin35254,121.36.35.254,98e8f63ca09762d1e4cda9acb046fbfb,chrome  TcpIp/Recv  192.168.0.110 to 58.254.149.226,05/12/2022 22:56:28
+138,WWW Visit,admin35254,121.36.35.254,3a4057c5b7c6a85e477d592dd1d4e045,chrome  TcpIp/Send  192.168.0.110 to 58.254.149.226,05/12/2022 22:56:28
+139,WWW Visit,admin35254,121.36.35.254,204b9f3dba4ecd0e5944c156cb315682,chrome  TcpIp/Send  192.168.0.110 to 35.190.89.216,05/12/2022 22:59:11
+140,WWW Visit,admin35254,121.36.35.254,1c0300d2b39fc060b5322b22280182f4,chrome  TcpIp/Recv  192.168.0.110 to 35.190.89.216,05/12/2022 22:59:11
+141,WWW Visit,admin35254,121.36.35.254,cc86fe146acc97eb89ccff75efdcba21,chrome  TcpIp/Send  192.168.0.110 to 203.208.39.226,05/12/2022 23:11:56
+142,WWW Visit,admin35254,121.36.35.254,1acad9734902d541c1918bf5a26e523d,chrome  TcpIp/Recv  192.168.0.110 to 203.208.39.226,05/12/2022 23:11:56
+143,File Open,admin35254,121.36.35.254,e1a583574933e63df55786927c5e328e,MsMpEng FileIO/Read windows.data.pdf.dll,05/13/2022 01:12:35
+144,File Open,admin35254,121.36.35.254,12c3e3e0fd22cb3b45066c48a5b2149f,MsMpEng FileIO/Read xpsdocumenttargetprint.dll,05/13/2022 01:12:37
+145,File Open,admin35254,121.36.35.254,8d70dcb68096b6884575a7ed577f258a,MsMpEng FileIO/Read windows.data.pdf.dll,05/13/2022 01:12:41
+146,File Open,admin35254,121.36.35.254,28ad6e1e1c5152d3398d668d6a80089f,MsMpEng FileIO/Read xpsdocumenttargetprint.dll,05/13/2022 01:12:41
+147,File Open,admin35254,121.36.35.254,abe1f68fd493d0443bbb31df0b8cb3f7,svchost FileIO/Read $I85CYBR.zip,05/13/2022 02:59:45
+148,File Open,admin35254,121.36.35.254,38da20a448b4699d30032c85ec43881b,svchost FileIO/Read $I2NPFEU.zip,05/13/2022 02:59:45
+149,File Open,admin35254,121.36.35.254,886e7cc5b8f712b7c50590810bf475eb,svchost FileIO/Read $IBMV5NX.txt,05/13/2022 02:59:45
+150,File Open,admin4418,121.36.44.18,e32c54ace222c03bff19f110a0305088,MsMpEng FileIO/Read 29.jpg,05/13/2022 03:31:05
+151,File Open,admin4418,121.36.44.18,f04e60d947fbbf8a8d22e29d708c9f0a,MsMpEng FileIO/Read theme_photo_greentreetops_background.jpg,05/13/2022 03:31:05
+152,File Open,admin4418,121.36.44.18,9b7cbdaa6271d043a5a7273d7c2c753d,MsMpEng FileIO/Read background_roomtracing_05.jpg,05/13/2022 03:31:06
+153,File Open,admin4418,121.36.44.18,d8fe3e13914c8becc673635451cf5dfd,MsMpEng FileIO/Read img1.jpg,05/13/2022 03:31:06
+154,File Open,admin4418,121.36.44.18,36960216d4e80741817dc29e5606d848,MsMpEng FileIO/Read thirdpartynotice.txt,05/13/2022 03:31:06
+155,File Open,admin4418,121.36.44.18,ac32de0b780699e5b170db0a3cdbb0ce,MsMpEng FileIO/Read tabletextserviceyi.txt,05/13/2022 03:31:07
+156,File Open,admin4418,121.36.44.18,4668c432970e371ba27364250333208a,MsMpEng FileIO/Read theme_illustration_seasons_winter_thumbnail.jpg,05/13/2022 03:31:07
+157,File Open,admin4418,121.36.44.18,46de3d3d17eba05c8b32e763b0d1d24d,MsMpEng FileIO/Read motioncontroller_hero.jpg,05/13/2022 03:31:07
+158,File Open,admin4418,121.36.44.18,d3f5c4f0d4c2e131f50e8f1c1c8aeb56,MsMpEng FileIO/Read theme_photo_autumnleaves_background.jpg,05/13/2022 03:31:07
+159,File Open,admin4418,121.36.44.18,93992ac6530cd885f358c61caed99261,MsMpEng FileIO/Read background_roomtracing_03.jpg,05/13/2022 03:31:07
+160,File Open,admin4418,121.36.44.18,f4a5e6c4a7e51278941c584b3484981a,MsMpEng FileIO/Read img3.jpg,05/13/2022 03:31:08
+161,File Open,admin4418,121.36.44.18,357d3ed1cf32520d986c6795372db1c0,MsMpEng FileIO/Read 34.jpg,05/13/2022 03:31:08
+162,File Open,admin4418,121.36.44.18,0d11389c9cbf8dffd0e221db289f0a66,MsMpEng FileIO/Read music_offline_demo_page2.jpg,05/13/2022 03:31:08
+163,File Open,admin4418,121.36.44.18,2ffafb47e2f4480badbd7beacb24bbb5,MsMpEng FileIO/Read windows.data.pdf.dll.mun,05/13/2022 03:31:09
+164,File Open,admin4418,121.36.44.18,5b97aef2915c63fafda364f923eca7ec,MsMpEng FileIO/Read motion_zoominright.jpg,05/13/2022 03:31:10
+165,File Open,admin4418,121.36.44.18,442c0e41eb18a6a8e112eaeb97c87bdb,MsMpEng FileIO/Read background_safety_objects.jpg,05/13/2022 03:31:10
+166,File Open,admin4418,121.36.44.18,e416b3e4eebd09041c944374f8a7e4e4,MsMpEng FileIO/Read 39.jpg,05/13/2022 03:31:11
+167,File Open,admin4418,121.36.44.18,44b67c349584d9514f75b9dc7a11e6b9,MsMpEng FileIO/Read 40.jpg,05/13/2022 03:31:13
+168,File Open,admin4418,121.36.44.18,f6aa0396fe9f75e9e7fa4345b0e47587,MsMpEng FileIO/Read theme_photo_watercolor_thumbnail_dark.jpg,05/13/2022 03:31:15
+169,File Open,admin4418,121.36.44.18,ecac3a652b3247b826f83ca6b2c757f2,MsMpEng FileIO/Read 4.jpg,05/13/2022 03:31:15
+170,File Open,admin4418,121.36.44.18,7935d022282a7536fbb8e309c6b4534b,MsMpEng FileIO/Read sticker_icon_gravel.jpg,05/13/2022 03:31:15
+171,File Open,admin4418,121.36.44.18,232f19b498728c43a9054ce472dd74d0,MsMpEng FileIO/Read notice.txt,05/13/2022 03:31:17
+172,File Open,admin4418,121.36.44.18,e98927a0d7012a5b4d30d8e44c2433c6,MsMpEng FileIO/Read windows.data.pdf.dll,05/13/2022 03:31:17
+173,File Open,admin4418,121.36.44.18,a1ec65eaeafece6a320b6c2ba6b37440,MsMpEng FileIO/Read none.jpg,05/13/2022 03:31:17
+174,File Open,admin4418,121.36.44.18,7447a1bd0449963d942b54eebc41aa83,MsMpEng FileIO/Read security_watermark.jpg,05/13/2022 03:31:17
+175,File Open,admin4418,121.36.44.18,0fac0aae0d316fc02df0f57b296174f0,MsMpEng FileIO/Read img8.jpg,05/13/2022 03:31:19
+176,File Open,admin4418,121.36.44.18,fdf51ec8fc08703249594ae6a8eb87ef,MsMpEng FileIO/Read 27.jpg,05/13/2022 03:31:19
+177,File Open,admin4418,121.36.44.18,1498e20d8b0e0d337ee02f2bf7101058,MsMpEng FileIO/Read background_forwarddirection_deskscale.jpg,05/13/2022 03:31:21
+178,File Open,admin4418,121.36.44.18,b1f3cf97ef97b4215b00a44f12eea41f,MsMpEng FileIO/Read img0_1366x768.jpg,05/13/2022 03:31:21
+179,File Open,admin4418,121.36.44.18,245cd55c6a1dc8c15a618f869f003f37,MsMpEng FileIO/Read theme_illustration_seasons_winter_thumbnail_dark.jpg,05/13/2022 03:31:21
+180,File Open,admin4418,121.36.44.18,f11af5ee540fb35e0e405bc60452fbd6,MsMpEng FileIO/Read 12.jpg,05/13/2022 03:31:21
+181,File Open,admin4418,121.36.44.18,1586517e43d692dbb55a4967931c6515,MsMpEng FileIO/Read aboutadsgenericbackgroundimage.jpg,05/13/2022 03:31:21
+182,File Open,admin4418,121.36.44.18,0642f68f0c273b5ca72b11254b7d0a76,MsMpEng FileIO/Read sdclt.exe.mui,05/13/2022 03:31:22
+183,File Open,admin4418,121.36.44.18,cb980d6dbdab06e7b861fc01e616df3d,MsMpEng FileIO/Read tabletextservicearray.txt,05/13/2022 03:31:23
+184,File Open,admin4418,121.36.44.18,7d02b64dae8b5482335651a70133abc0,MsMpEng FileIO/Read about_mocking.help.txt,05/13/2022 03:31:24
+185,File Open,admin4418,121.36.44.18,4e55e4c790930308ecefed32c03a256d,MsMpEng FileIO/Read 34.jpg,05/13/2022 03:31:24
+186,File Open,admin4418,121.36.44.18,d89d51b926227da7c51d6b9bf3483af8,MsMpEng FileIO/Read dmr_120.jpg,05/13/2022 03:31:25
+187,File Open,admin4418,121.36.44.18,61cb4ff32b6fccdc2526e8e9694a1b96,MsMpEng FileIO/Read wmpnss_color48.jpg,05/13/2022 03:31:25
+188,File Open,admin4418,121.36.44.18,62281de37ce9c3e2c64856190afccdc0,MsMpEng FileIO/Read theme_photo_sunlitforest_thumbnail.jpg,05/13/2022 03:31:26
+189,File Open,admin4418,121.36.44.18,15c609077cd70c387ebb83dc1be96153,MsMpEng FileIO/Read theme_illustration_seasons_fall_thumbnail.jpg,05/13/2022 03:31:27
+190,File Open,admin4418,121.36.44.18,89c19fd77b0a586733ba8be6f9890e8e,MsMpEng FileIO/Read img10.jpg,05/13/2022 03:31:27
+191,File Open,admin4418,121.36.44.18,e4df2bbd43ec04267e5f13f0300cd0c5,MsMpEng FileIO/Read theme_photo_greenclovers_background.jpg,05/13/2022 03:31:28
+192,File Open,admin4418,121.36.44.18,bb9981fb1e222f48539d6a29ccac2cf4,MsMpEng FileIO/Read theme_photo_sunlitforest_thumbnail_dark.jpg,05/13/2022 03:31:28
+193,File Open,admin4418,121.36.44.18,38e8d7beca2df2261355037c3f2875e2,MsMpEng FileIO/Read theme_photo_springdandelion_thumbnail_dark.jpg,05/13/2022 03:31:29
+194,File Open,admin4418,121.36.44.18,d4d9227d4a358de8e750b6d27333b215,MsMpEng FileIO/Read background_roomtracing_01.jpg,05/13/2022 03:31:30
+195,File Open,admin4418,121.36.44.18,9c83c13d7de9e73e494ea275b9c1e4b6,MsMpEng FileIO/Read archive.zip,05/13/2022 03:31:30
+196,File Open,admin4418,121.36.44.18,b86674b784725150d6cd7966a2614469,MsMpEng FileIO/Read 91.jpg,05/13/2022 03:31:32
+197,File Open,admin4418,121.36.44.18,ac6ea86939dc49555859a9d261147075,MsMpEng FileIO/Read background_hp_hmd.jpg,05/13/2022 03:31:32
+198,File Open,admin4418,121.36.44.18,0598f49d11f3acfd570b97c1df731d18,MsMpEng FileIO/Read wmpnss_color120.jpg,05/13/2022 03:31:32
+199,File Open,admin4418,121.36.44.18,9369b653a86207176041e8c6e07a2ba0,MsMpEng FileIO/Read 39.jpg,05/13/2022 03:31:32
+200,File Open,admin4418,121.36.44.18,c9023cbd4e8931d8b22ac4f5cce012f2,MsMpEng FileIO/Read AppCache132968581529182765.txt.~tmp,05/13/2022 03:36:01
+201,File Open,admin4418,121.36.44.18,6ed682555e0b665a6e905995459d2a4a,MsMpEng FileIO/Read 0.0.filtertrie.intermediate.txt,05/13/2022 03:36:03
+202,File Open,admin35254,121.36.35.254,457d123c0bb27a90b5359ed07808cc7b,MsMpEng FileIO/Read img0.jpg,05/13/2022 05:28:48
+203,File Open,admin35254,121.36.35.254,4bada5f3a9f315fd59c4939b1a0216be,MsMpEng FileIO/Read SharpBitsConsole.zip,05/13/2022 05:29:07
+204,File Open,admin35254,121.36.35.254,c06449ef63f1d6000b4eb5a1101d3f27,MsMpEng FileIO/Read img0.jpg,05/13/2022 05:29:07
+205,File Open,admin4418,121.36.44.18,389326b6a92c17e76a93bd17bb44ee68,MsMpEng FileIO/Read AppCache132968723996720840.txt.~tmp,05/13/2022 07:33:28
+206,File Open,admin4418,121.36.44.18,7ced5c448df45ca3d434b8c04d24ca7b,MsMpEng FileIO/Read 0.0.filtertrie.intermediate.txt,05/13/2022 07:33:28
+207,File Write,admin35254,121.36.35.254,0599bb5df118312f65298467a3a4970f,explorer FileIO/Write CachedImage_1280_768_POS4.jpg,05/13/2022 09:00:27
+208,File Open,admin35254,121.36.35.254,43dca8a9ac6495645633b53c66eacb3a,LogonUI FileIO/Read LockScreen___1280_0768_notdimmed.jpg,05/13/2022 09:00:27
+209,File Open,admin35254,121.36.35.254,73d3d15ba14e02c80a0400dfd5a263dd,explorer FileIO/Read CachedImage_1280_768_POS4.jpg,05/13/2022 09:00:27
+210,File Open,admin35254,121.36.35.254,a2263294a1165f37efcd434a3101e3cb,explorer FileIO/Read $I2NPFEU.zip,05/13/2022 09:00:29
+211,WWW Visit,admin35254,121.36.35.254,57b318b485d43a46413810a60bd5ec51,chrome  TcpIp/Recv  192.168.0.110 to 220.181.111.91,05/13/2022 09:01:02
+212,WWW Visit,admin35254,121.36.35.254,5877d925521e25638be6b8461fa8559d,chrome  TcpIp/Send  192.168.0.110 to 220.181.33.115,05/13/2022 09:01:02
+213,WWW Visit,admin35254,121.36.35.254,7c861cd68cd43628755100eb221723f8,chrome  TcpIp/Recv  192.168.0.110 to 220.181.33.115,05/13/2022 09:01:02
+214,WWW Visit,admin35254,121.36.35.254,b8043b4b3e411991505b100e6b8019ae,chrome  TcpIp/Send  192.168.0.110 to 220.181.111.91,05/13/2022 09:01:02
+215,WWW Visit,admin35254,121.36.35.254,97e86a9de005daa4af449523bec9d2bc,chrome  TcpIp/Send  192.168.0.110 to 220.181.33.24,05/13/2022 09:01:11
+216,WWW Visit,admin35254,121.36.35.254,20b7ac9d22592b724693082654de70a2,chrome  TcpIp/Recv  192.168.0.110 to 220.181.33.24,05/13/2022 09:01:11
+217,WWW Visit,admin35254,121.36.35.254,19fe5dbd4ada47d29c15bc7e826fdb92,chrome  TcpIp/Send  192.168.0.110 to 116.114.98.35,05/13/2022 09:01:11
+218,WWW Visit,admin35254,121.36.35.254,2a40cae64ed7c9fd1b2d803c0239a8a4,chrome  TcpIp/Recv  192.168.0.110 to 116.114.98.35,05/13/2022 09:01:11
+219,WWW Visit,admin35254,121.36.35.254,ea7963f30be73866abccfb1b45bea9f1,chrome  TcpIp/Send  192.168.0.110 to 220.181.107.239,05/13/2022 09:01:11
+220,WWW Visit,admin35254,121.36.35.254,14e90b47bc08ca76d6a5130dddd713a2,chrome  TcpIp/Recv  192.168.0.110 to 220.181.107.239,05/13/2022 09:01:11
+221,WWW Visit,admin35254,121.36.35.254,b0e85cf30aa4b71582fd7ab957b76888,chrome  TcpIp/Recv  192.168.0.110 to 220.181.33.236,05/13/2022 09:01:12
+222,WWW Visit,admin35254,121.36.35.254,254313e5e74039e3d9452fb8a2700601,chrome  TcpIp/Recv  192.168.0.110 to 124.239.243.35,05/13/2022 09:01:12
+223,WWW Visit,admin35254,121.36.35.254,9a7b3e15b7a80fbcd9d9cf3d44d908cf,chrome  TcpIp/Send  192.168.0.110 to 220.181.33.236,05/13/2022 09:01:12
+224,WWW Visit,admin35254,121.36.35.254,aa0bcdc935476ef3031a71aeac78e836,chrome  TcpIp/Recv  192.168.0.110 to 113.105.172.38,05/13/2022 09:01:12
+225,WWW Visit,admin35254,121.36.35.254,4b3b32c9a7a9e13d9d9a9252eac42d80,chrome  TcpIp/Send  192.168.0.110 to 113.105.172.38,05/13/2022 09:01:12
+226,WWW Visit,admin35254,121.36.35.254,1aedbebb0d5cd25df587b3f6c7453c86,chrome  TcpIp/Send  192.168.0.110 to 124.239.243.35,05/13/2022 09:01:12
+227,WWW Visit,admin35254,121.36.35.254,ff8d7439dcdc2dcdae3c8de9de36f59f,chrome  TcpIp/Send  192.168.0.110 to 203.208.50.65,05/13/2022 09:01:31
+228,WWW Visit,admin35254,121.36.35.254,842c51e5a261c78d44fb8d4669445a26,chrome  TcpIp/Recv  192.168.0.110 to 203.208.50.65,05/13/2022 09:01:31
+229,WWW Visit,admin35254,121.36.35.254,c83a5f2daf70f7015c6bac687f76ae08,chrome  TcpIp/Send  192.168.0.110 to 204.79.197.200,05/13/2022 09:01:40
+230,WWW Visit,admin35254,121.36.35.254,8c78adbdd137c8690673ba96e781dec2,chrome  TcpIp/Recv  192.168.0.110 to 204.79.197.200,05/13/2022 09:01:40
+231,File Write,admin35254,121.36.35.254,463638cfd6839384bafc17da70e5e534,explorer FileIO/Write $IF22ENI.zip,05/13/2022 09:01:52
+232,File Open,admin35254,121.36.35.254,0ab0a336e50d6964a981e50fa5f092d6,MsMpEng FileIO/Read $IF22ENI.zip,05/13/2022 09:01:52
+233,File Open,admin35254,121.36.35.254,2ffd5cbffe442e43a63f7f3d9bce7ea1,explorer FileIO/Read $I85CYBR.zip,05/13/2022 09:01:57
+234,File Open,admin35254,121.36.35.254,a8c4b71247cc48d3739c73568081e635,explorer FileIO/Read $IBMV5NX.txt,05/13/2022 09:01:57
+235,File Open,admin35254,121.36.35.254,351711df491f3f6842742b2d8e47fb3c,explorer FileIO/Read $IF22ENI.zip,05/13/2022 09:01:57
+236,WWW Visit,admin35254,121.36.35.254,0d7a0731768c8c2931ecf033a5cb173c,chrome  TcpIp/Recv  192.168.0.110 to 203.208.50.65,05/13/2022 09:05:32
+237,Logoff,admin4418,121.36.44.18,531eb92a48822b1bd4c0d8dd729e6b92,admin Logoff,05/13/2022 09:33:42
+238,Logoff,admin35254,121.36.35.254,7435da6a8f930faca29da9253c51a5d9,admin Logoff,05/13/2022 09:33:42
+239,Logon,admin35254,121.36.35.254,61848f40f00cb8e40d209ed8ad488133,admin Logon,05/13/2022 09:33:50
+240,Logon,admin4418,121.36.44.18,daa5b65baa6db2f13412e4d92496047a,admin Logon,05/13/2022 09:33:50
+241,File Write,admin4418,121.36.44.18,c2c9e6c5ee7daa00548fa45fc8d5f86b,svchost FileIO/Write WER8819.tmp.txt,05/13/2022 10:25:27
+242,File Open,admin4418,121.36.44.18,edbb9e889cbcbc563c21bf8b962cc506,svchost FileIO/Read WER8819.tmp.txt,05/13/2022 10:25:27
+243,File Write,admin4418,121.36.44.18,d02bc05771cd8f2a5a8a6ce0e26516bb,svchost FileIO/Write WER8819.tmp.txt,05/13/2022 10:25:27
+244,File Open,admin35254,121.36.35.254,90d5d38d81cae9176c5c6fd30f69a126,LogonUI FileIO/Read LockScreen___1536_0864_notdimmed.jpg,05/13/2022 10:53:46
+245,File Write,admin35254,121.36.35.254,96328e60b9cd31ce0854969e79b70ede,explorer FileIO/Write CachedImage_1536_864_POS4.jpg,05/13/2022 10:53:47
+246,File Open,admin35254,121.36.35.254,963f2e64647d3e2444d1149ad648b53f,explorer FileIO/Read CachedImage_1536_864_POS4.jpg,05/13/2022 10:56:09
+247,File Open,admin4418,121.36.44.18,c27a208cf61a1b2d5769ac82a7644da7,LogonUI FileIO/Read LockScreen___1536_0864_notdimmed.jpg,05/13/2022 11:04:35
+248,File Open,admin4418,121.36.44.18,ddfaabf4fe7ca2e5177b6b885381c954,LogonUI FileIO/Read {BD6AF6C1-1942-4F4C-8180-E2432CB8996C}-Image192.jpg,05/13/2022 11:04:36
+249,File Open,admin4418,121.36.44.18,43a9ef07a1fe7b7b0c12e9bfd2c61ddc,LogonUI FileIO/Read LockScreen___1366_0768_notdimmed.jpg,05/13/2022 11:04:36
+250,WWW Visit,admin4418,121.36.44.18,91eb1403ef88947cec59eb6b998e9ba2,explorer  TcpIp/Send  192.168.0.74 to 104.70.235.82,05/13/2022 11:04:42
+251,WWW Visit,admin4418,121.36.44.18,ec80a0ee17b630943add6e07825a6533,explorer  TcpIp/Recv  192.168.0.74 to 104.70.235.82,05/13/2022 11:04:42
+252,File Write,admin4418,121.36.44.18,7fbfd26d3a0b69f5156ce5b3a7256790,explorer FileIO/Write CachedImage_1536_864_POS4.jpg,05/13/2022 11:04:51
+253,File Open,admin4418,121.36.44.18,72813d52324e4bcd0e406ed8316ca46b,explorer FileIO/Read CachedImage_1536_864_POS4.jpg,05/13/2022 11:04:54
+254,WWW Visit,admin4418,121.36.44.18,b6b30c7efdf5dcf4ea5f9f195a39d3a6,explorer  TcpIp/Recv  192.168.0.74 to 104.70.235.82,05/13/2022 11:06:32
+255,File Open,admin4418,121.36.44.18,ccec989f7e374a515f7d79b5b65a488a,explorer FileIO/Read CachedImage_1366_768_POS4.jpg,05/13/2022 11:09:13
+256,File Write,admin4418,121.36.44.18,aaf12bcd92c5b7a30d88935f78232729,explorer FileIO/Write CachedImage_1366_768_POS4.jpg,05/13/2022 11:09:15
+257,File Write,admin4418,121.36.44.18,b9356b9b1d2bfaa65062247c8b0adcf8,GameBarFTServer FileIO/Write XboxGamingOverlayTraces_FT_Server_20220513033123.txt,05/13/2022 11:24:51
+258,File Open,admin4418,121.36.44.18,9b2fa5bb1e53026e0f0d20b73696c39c,MsMpEng FileIO/Read profileDataSettings.txt,05/13/2022 11:24:51
+259,File Open,admin4418,121.36.44.18,b4273b1409dacd98a72934ac40925b85,GameBar FileIO/Read profileDataSettings.txt,05/13/2022 11:24:51
+260,File Write,admin4418,121.36.44.18,7e76d708754f1d1cc72b2b92de878e70,GameBar FileIO/Write profileDataSettings.txt.~tmp,05/13/2022 11:24:55
+261,File Open,admin4418,121.36.44.18,16d3cf04c235f1a619c6e6e767a9d10a,MsMpEng FileIO/Read XboxGamingOverlayTraces_FT_Server_20220513033123.txt,05/13/2022 11:29:51
+262,File Open,admin4418,121.36.44.18,77b26cfe263569ac9f4dc50fe3d098df,LogonUI FileIO/Read img100.jpg,05/13/2022 11:39:49
+263,File Write,admin4418,121.36.44.18,4c4860a0cc6ccff7ce7b5dbe5212f67e,explorer FileIO/Write CachedImage_200_200_POS4.jpg,05/13/2022 11:39:51
+264,File Open,admin4418,121.36.44.18,b123099a18a3f05f2f62c85f1dc5dc25,explorer FileIO/Read CachedImage_200_200_POS4.jpg,05/13/2022 11:39:51
+265,File Open,admin4418,121.36.44.18,799c2e42497576eabbd37a8113c8d238,MsMpEng FileIO/Read LockScreen___0200_0200_notdimmed.jpg,05/13/2022 11:39:51
+266,File Write,admin4418,121.36.44.18,b24830dd167a3fd7d0724828dfc92f3a,explorer FileIO/Write CachedImage_640_480_POS4.jpg,05/13/2022 11:39:55
+267,File Open,admin4418,121.36.44.18,53fa89796c02acbd624bbfd749258a97,explorer FileIO/Read CachedImage_640_480_POS4.jpg,05/13/2022 11:40:03
+268,File Open,admin4418,121.36.44.18,db915aa67e137f4176f7c590fa195ad1,MsMpEng FileIO/Read 0.0.filtertrie.intermediate.txt,05/13/2022 11:40:18
+269,File Open,admin4418,121.36.44.18,318ae8e609b2ef56818354726146a159,MsMpEng FileIO/Read AppCache132968723996720840.txt,05/13/2022 11:40:18
+270,File Open,admin4418,121.36.44.18,6ba1cdb3948adeb4eebe7e0216b625d1,MsMpEng FileIO/Read AppCache132968872095932346.txt.~tmp,05/13/2022 11:40:18
+271,File Open,admin4418,121.36.44.18,fce0aa0c9f2f036634bb6dc1fc34e098,LogonUI FileIO/Read LockScreen___0200_0200_notdimmed.jpg,05/13/2022 11:41:15
+272,File Open,admin4418,121.36.44.18,6264053797e1d51100121b94a23884ea,MsMpEng FileIO/Read LockScreen___0640_0480_notdimmed.jpg,05/13/2022 11:41:15
+273,File Open,admin4418,121.36.44.18,fc26ec48e869a00df1ef81bad516477d,LogonUI FileIO/Read LockScreen___0640_0480_notdimmed.jpg,05/13/2022 11:42:16
+274,File Write,admin4418,121.36.44.18,8212155dd286b53efc9c524964c94b86,explorer FileIO/Write Mimikatz.zip,05/13/2022 12:09:24
+275,File Open,admin4418,121.36.44.18,d125f75d7dab193206f4ad96512915a1,explorer FileIO/Read Mimikatz.zip,05/13/2022 12:09:31
+276,WWW Visit,admin4418,121.36.44.18,fcabe845c52ded51dd6337653102eb05,SNETCracker  TcpIp/Recv  192.168.0.74 to 20.205.243.166,05/13/2022 14:12:06
+277,WWW Visit,admin4418,121.36.44.18,2432654dc6f14d9a64e918b128d3d746,SNETCracker  TcpIp/Send  192.168.0.74 to 20.205.243.166,05/13/2022 14:12:06
+278,File Open,admin4418,121.36.44.18,fab6e3375d1a5a2262e6a37cace7c7a7,SNETCracker FileIO/Read servicesports.txt,05/13/2022 14:12:06
+279,File Open,admin4418,121.36.44.18,d84e2d3be803739fd7ead77bb4155388,SNETCracker FileIO/Read servicesnames.txt,05/13/2022 14:12:06
+280,WWW Visit,admin4418,121.36.44.18,e78186b7e2cee82b4e9ed29732474536,SNETCracker  TcpIp/Recv  192.168.0.74 to 192.168.0.110,05/13/2022 14:12:44
+281,WWW Visit,admin4418,121.36.44.18,cd5df9314be2775061562247625d046f,SNETCracker  TcpIp/Send  192.168.0.74 to 192.168.0.110,05/13/2022 14:12:44
+282,File Write,admin35254,121.36.35.254,507b5e168c8d5068c7d0390b40e049c0,explorer FileIO/Write CachedImage_200_200_POS4.jpg,05/13/2022 14:17:40
+283,WWW Visit,admin4418,121.36.44.18,b31840a9bb9694808f5d3961fd3e594e,mstsc  TcpIp/Send  192.168.0.74 to 192.168.0.110,05/13/2022 14:18:22
+284,WWW Visit,admin4418,121.36.44.18,050fed7a8781ba80fdef074b8e07a9b1,mstsc  TcpIp/Recv  192.168.0.74 to 192.168.0.110,05/13/2022 14:18:22
+285,File Open,admin35254,121.36.35.254,062ad37294689eeb0b602d1e0dcb1361,backgroundTaskHost FileIO/Read AppCache132968145387604627.txt,05/13/2022 14:26:14
+286,File Write,admin4418,121.36.44.18,b392fe95a240ce484fd0b62a31978251,explorer FileIO/Write $IOSFYW2.zip,05/13/2022 14:26:58
+287,WWW Visit,admin35254,121.36.35.254,71bb5dfe2b753ca24e3ce922d2f7bc8b,chrome  TcpIp/Send  192.168.0.110 to 34.68.0.55,05/13/2022 14:28:20
+288,WWW Visit,admin35254,121.36.35.254,593a51d336615ff48e8bbf9d69e9f45d,chrome  TcpIp/Recv  192.168.0.110 to 34.68.0.55,05/13/2022 14:28:20
+289,WWW Visit,admin35254,121.36.35.254,cb8884dd59558225c4d0b5d0cb2c0742,chrome  TcpIp/Send  192.168.0.110 to 203.208.50.162,05/13/2022 14:28:40
+290,WWW Visit,admin35254,121.36.35.254,24c5eaff9296ffff7612c6a0401fe686,chrome  TcpIp/Recv  192.168.0.110 to 203.208.50.162,05/13/2022 14:28:40
+291,File Open,admin35254,121.36.35.254,fd5f7a1e0aca8f020d35fdbc5effd282,powershell FileIO/Read Deeplogfromxzq.zip,05/13/2022 14:29:57
+292,File Open,admin35254,121.36.35.254,206fc5cbe0994983bf0783ae84a23e4f,powershell FileIO/Read nodemerge-ccs2018.pdf,05/13/2022 14:30:06
+293,WWW Visit,admin35254,121.36.35.254,af4db00f7fc9135884bb49e7a0c6baf8,chrome  TcpIp/Recv  192.168.0.110 to 203.208.50.162,05/13/2022 14:32:40
+294,WWW Visit,admin35254,121.36.35.254,cd5491c31bb79df44a52b1ebc85e93ca,chrome  TcpIp/Recv  192.168.0.110 to 203.208.39.226,05/13/2022 14:41:21
+295,WWW Visit,admin35254,121.36.35.254,1f059121330ec6b99aa66d7742193c72,chrome  TcpIp/Send  192.168.0.110 to 203.208.39.226,05/13/2022 14:41:21
+296,WWW Visit,admin35254,121.36.35.254,4e9cfbcb437b4a90b722492bef243232,chrome  TcpIp/Recv  192.168.0.110 to 114.250.65.34,05/13/2022 16:00:47
+297,WWW Visit,admin35254,121.36.35.254,3d8972d28255ce4d1f286561e0472450,chrome  TcpIp/Send  192.168.0.110 to 114.250.65.34,05/13/2022 16:00:47
+298,WWW Visit,admin35254,121.36.35.254,e73a3f60cea79cd6213af2ed80a93d01,chrome  TcpIp/Recv  192.168.0.110 to 114.250.65.34,05/13/2022 16:04:47
+299,File Open,admin4418,121.36.44.18,b9a4526af4040ad311084777172f1ad9,svchost FileIO/Read $IJVVEQC.txt,05/13/2022 16:23:47
+300,File Open,admin4418,121.36.44.18,186fdbd813420a464edaac642d404090,explorer FileIO/Read $ID48M1I.zip,05/13/2022 16:24:42
+301,File Open,admin4418,121.36.44.18,f5dcc91f43d34756d794f37ed8769448,explorer FileIO/Read $IJVVEQC.txt,05/13/2022 16:24:42
+302,File Open,admin4418,121.36.44.18,a520fc82c10cf19d1e7b305706f0e652,explorer FileIO/Read $I5Q79XC.txt,05/13/2022 16:24:42
+303,File Open,admin4418,121.36.44.18,2cbfe08cff0288190fa0cb54d29bfcbf,explorer FileIO/Read $I4GERX7.txt,05/13/2022 16:24:42
+304,File Open,admin4418,121.36.44.18,bd80f45af819f32ae868f407fbe00fd5,explorer FileIO/Read $IQGRNMB.txt,05/13/2022 16:24:42
+305,File Open,admin4418,121.36.44.18,36bc5543548538fb888d54b38c2d1bcb,explorer FileIO/Read $IOSFYW2.zip,05/13/2022 16:24:42
+306,File Open,admin4418,121.36.44.18,5daa6bfde9e910ce61f34969197ccd24,explorer FileIO/Read $ID48M1I.zip,05/13/2022 16:24:47
+307,File Open,admin4418,121.36.44.18,4652a5f7ca19a01210ac4e2e1a7a02ee,explorer FileIO/Read $IQGRNMB.txt,05/13/2022 16:24:47
+308,File Open,admin4418,121.36.44.18,6b84517d119c7189151a074542496b14,explorer FileIO/Read $IOSFYW2.zip,05/13/2022 16:24:47
+309,WWW Visit,admin4418,121.36.44.18,1ba63eed01dbbfee05df8a89488f175c,explorer  TcpIp/Recv  192.168.0.74 to 23.46.229.82,05/13/2022 16:32:37
+310,WWW Visit,admin4418,121.36.44.18,3e459b26519cf53076d0b7d7e884ed76,explorer  TcpIp/Send  192.168.0.74 to 23.46.229.82,05/13/2022 16:32:37
+311,File Open,admin35254,121.36.35.254,cbd82c1ae150f1c7ad53e2f1db72a156,LogonUI FileIO/Read LockScreen___1536_0864_notdimmed.jpg,05/13/2022 16:38:41
+312,File Write,admin35254,121.36.35.254,3e962a9c90b87ff5246d8ddd15a9b509,explorer FileIO/Write CachedImage_1280_768_POS4.jpg,05/13/2022 16:38:41
+313,File Write,admin35254,121.36.35.254,fdf1e3ca7d765510b933c78d9c7790cb,explorer FileIO/Write CachedImage_1536_864_POS4.jpg,05/13/2022 16:38:42
+314,File Open,admin35254,121.36.35.254,d328289282d04706d4b06fe98bdce451,explorer FileIO/Read CachedImage_1536_864_POS4.jpg,05/13/2022 16:38:53
+315,Logoff,admin4418,121.36.44.18,b9e64f13aa197ca35872743ee3663edc,admin Logoff,05/13/2022 16:39:02
+316,Logoff,admin35254,121.36.35.254,79c969c78f479bb753557509b0ce81b8,admin Logoff,05/13/2022 16:39:02
+317,Logon,admin35254,121.36.35.254,961f4828edea3f29f519b7a95afb3704,admin Logon,05/15/2022 00:14:59
+318,Logon,admin4418,121.36.44.18,78a8bb927bc5f1c592c565293bf6d5ba,admin Logon,05/15/2022 00:14:59
+319,File Open,admin35254,121.36.35.254,23945978580ed58a6ce5705e78096122,explorer FileIO/Read $IO887KE.zip,05/15/2022 00:15:44
+320,File Open,admin35254,121.36.35.254,add271d5252a7f05ac6986876fba3660,explorer FileIO/Read CachedImage_1530_780_POS4.jpg,05/15/2022 00:15:44
+321,File Write,admin35254,121.36.35.254,9de0784df642a07d4e336def604ee55c,explorer FileIO/Write $IW5TSVM.txt,05/15/2022 00:15:44
+322,File Write,admin35254,121.36.35.254,1c3209610aaa8a715a6968b3e1136c1d,explorer FileIO/Write CachedImage_1530_780_POS4.jpg,05/15/2022 00:16:09
+323,File Open,admin35254,121.36.35.254,4775fa8281852949a98a3ec1831d0eca,LogonUI FileIO/Read LockScreen___1530_0780_notdimmed.jpg,05/15/2022 00:16:30
+324,File Write,admin35254,121.36.35.254,15e60a7f59191918c337023005ec5b03,explorer FileIO/Write benign_0515.txt.lnk,05/15/2022 00:17:05
+325,File Open,admin4418,121.36.44.18,e70eeb45c0e52eb5655d426df2def39f,MsMpEng FileIO/Read Mimikatz.zip,05/15/2022 04:15:19
+326,File Open,admin35254,121.36.35.254,aba0360dc5b1956496267fc43b24f990,svchost FileIO/Read $IW5TSVM.txt,05/15/2022 04:17:42
+327,File Open,admin35254,121.36.35.254,d4d9b72023152967a371c980b3d903db,svchost FileIO/Read $IO887KE.zip,05/15/2022 04:17:42
+328,File Open,admin35254,121.36.35.254,4a1f6cf8ed6c9b575e94c429f2f8edcd,MsMpEng FileIO/Read windows.data.pdf.dll,05/15/2022 05:10:30
+329,File Open,admin35254,121.36.35.254,3604569500a957d25e1c89cc36c11c3c,MsMpEng FileIO/Read xpsdocumenttargetprint.dll,05/15/2022 05:10:32
+330,File Open,admin35254,121.36.35.254,e87ef85433094f3c616b79b753b1d327,MsMpEng FileIO/Read windows.data.pdf.dll,05/15/2022 05:10:36
+331,File Open,admin35254,121.36.35.254,dcf45b8b6bd86339ac2b7b4dbf4d966d,MsMpEng FileIO/Read xpsdocumenttargetprint.dll,05/15/2022 05:10:37
+332,File Open,admin35254,121.36.35.254,56178551127edfc9e17f41efecb611d5,MsMpEng FileIO/Read img0.jpg,05/15/2022 05:28:29
+333,File Open,admin35254,121.36.35.254,67df6250ecc04ce38d2f0dbe1e0cf3ef,MsMpEng FileIO/Read SharpBitsConsole.zip,05/15/2022 05:28:48
+334,File Open,admin35254,121.36.35.254,35644fd11f8255712155d80caa3a5755,MsMpEng FileIO/Read img0.jpg,05/15/2022 05:28:48
+335,File Open,admin4418,121.36.44.18,d65ce7300124482ddf43ab3a737a1708,svchost FileIO/Read $IZ3Q9ZA.zip,05/15/2022 06:23:12
+336,File Open,admin4418,121.36.44.18,90f29c0e380cd9da69f0292c2c9a95a3,svchost FileIO/Read $I87D1UP.txt,05/15/2022 06:23:12
+337,File Open,admin4418,121.36.44.18,96fb4e272ae6f9ad3c77d1bf3721b6f9,svchost FileIO/Read $IBQ0C7D.zip,05/15/2022 06:23:12
+338,File Open,admin4418,121.36.44.18,9d5e15bb5194cb3fbd1730fe074bf8a2,svchost FileIO/Read $IGIO7SG.txt,05/15/2022 06:23:12
+339,File Open,admin4418,121.36.44.18,e7291f0c8777f80116dedd0909d02d25,backgroundTaskHost FileIO/Read FlightingLogging.txt,05/15/2022 06:44:24
+340,File Open,admin35254,121.36.35.254,c138676eecc583ce4d2e2b2b5ede94ea,svchost FileIO/Read $IO887KE.zip,05/15/2022 10:27:42
+341,File Open,admin35254,121.36.35.254,afc46a3cd2e190e4d979dfb48866fa8c,svchost FileIO/Read $IW5TSVM.txt,05/15/2022 10:27:42
+342,File Open,admin35254,121.36.35.254,ac314902804e4460a6cb17697b6208a2,SearchUI FileIO/Read AppsGlobals.txt,05/15/2022 15:32:03
+343,File Open,admin35254,121.36.35.254,4cfb1fc75ce871e33df13fb0d14da78d,SearchUI FileIO/Read Appssynonyms.txt,05/15/2022 15:32:03
+344,File Write,admin35254,121.36.35.254,a835e46c40e38cacf80ba5e15a7b9fbb,SearchUI FileIO/Write 0.2.filtertrie.intermediate.txt,05/15/2022 15:32:03
+345,File Write,admin35254,121.36.35.254,731b83e6b340ae84aca3c7e650528416,SearchUI FileIO/Write 0.1.filtertrie.intermediate.txt,05/15/2022 15:32:03
+346,File Write,admin35254,121.36.35.254,72d35270506557b2a6b9b2b1ad7854af,SearchUI FileIO/Write 0.0.filtertrie.intermediate.txt,05/15/2022 15:32:03
+347,File Write,admin35254,121.36.35.254,fe1e6e77dd478ec1cde991124c4c7977,SearchUI FileIO/Write AppCache132970737387556193.txt.~tmp,05/15/2022 15:32:03
+348,File Open,admin35254,121.36.35.254,c7f892335a1b85077498ffb3cc8155b0,SearchUI FileIO/Read AppsConversions.txt,05/15/2022 15:32:03
+349,File Open,admin4418,121.36.44.18,41c1eedacb44a7b0ad4a98a98b327972,MsMpEng FileIO/Read 0.0.filtertrie.intermediate.txt,05/15/2022 19:44:25
+350,File Open,admin4418,121.36.44.18,591d9079ad1fc4a3ae82bfb12a45c695,MsMpEng FileIO/Read autofill_labeling_features_email.txt,05/15/2022 20:49:01
+351,File Open,admin4418,121.36.44.18,0fcacb7bf06b619b20884b5a4a3c1826,MsMpEng FileIO/Read autofill_labeling_features.txt,05/15/2022 20:49:01
+352,File Write,admin4418,121.36.44.18,e061aba957cc9b971ca03ef519b4ce61,setup FileIO/Write autofill_labeling_features.txt,05/15/2022 20:49:14
+353,File Open,admin4418,121.36.44.18,7464c79c080d98c026263064c9e13519,setup FileIO/Read autofill_labeling_features_email.txt,05/15/2022 20:49:14
+354,File Write,admin4418,121.36.44.18,9f12e076ca638cde6214a6fa57870938,setup FileIO/Write autofill_labeling_features_email.txt,05/15/2022 20:49:14
+355,File Open,admin4418,121.36.44.18,bd5623ade68fa831e2cbae0d520c9435,setup FileIO/Read autofill_labeling_features.txt,05/15/2022 20:49:14
+356,File Open,admin4418,121.36.44.18,af1ba408851a012b4728e8d5a9994eea,explorer FileIO/Read CachedImage_1366_768_POS4.jpg,05/15/2022 20:49:19
+357,File Open,admin4418,121.36.44.18,ef89845261a8dafcc9c96a39609405c6,MsMpEng FileIO/Read AppCache132970926061197273.txt.~tmp,05/15/2022 20:49:21
+358,File Open,admin4418,121.36.44.18,0a5c5706b88c6ee0f55a1e7d246b1cd9,MsMpEng FileIO/Read 0.0.filtertrie.intermediate.txt,05/15/2022 20:49:23
+359,File Open,admin4418,121.36.44.18,cae4b999c4ed1e57158ea09998f423a9,MsMpEng FileIO/Read telemetry-dll-ramp-value.txt,05/15/2022 22:09:33
+360,File Open,admin4418,121.36.44.18,a049c32f950646c5561bee7cc6862ccc,Microsoft.SharePoint FileIO/Read telemetry-dll-ramp-value.txt,05/15/2022 22:09:33
+361,File Write,admin4418,121.36.44.18,5a299874a9707a49137d474ea9a2d755,Microsoft.SharePoint FileIO/Write telemetry-dll-ramp-value.txt,05/15/2022 22:09:33
+362,File Open,admin35254,121.36.35.254,43303b84c9fd86611e93af6772cf79da,svchost FileIO/Read $IW5TSVM.txt,05/15/2022 22:47:42
+363,File Open,admin35254,121.36.35.254,4b6f6ada2a5f2f95464dcf9b074b2d14,svchost FileIO/Read $IO887KE.zip,05/15/2022 22:47:42
+364,File Open,admin4418,121.36.44.18,f645c54011375ef69bf06e5fffb1c73d,MsMpEng FileIO/Read 0.0.filtertrie.intermediate.txt,05/15/2022 23:44:25
+365,File Open,admin4418,121.36.44.18,ec67377c88bda8b80b53de8019eba8cc,MsMpEng FileIO/Read AppCache132971031098865997.txt.~tmp,05/15/2022 23:44:25
+366,File Open,admin4418,121.36.44.18,99c1ad282d6f9d7252425657e5507086,MsMpEng FileIO/Read AppCache132971174620855276.txt.~tmp,05/16/2022 03:43:37
+367,File Open,admin4418,121.36.44.18,a38b07f84599455365d449329c76e35a,MsMpEng FileIO/Read 0.0.filtertrie.intermediate.txt,05/16/2022 03:43:37
+368,File Open,admin4418,121.36.44.18,595c5cbeaeda68d4f9848706ae0766cb,MsMpEng FileIO/Read img2.jpg,05/16/2022 04:14:26
+369,File Open,admin4418,121.36.44.18,a642c039ce4ecd1089d07c6969c66ffa,MsMpEng FileIO/Read img0_768x1366.jpg,05/16/2022 04:14:27
+370,File Open,admin4418,121.36.44.18,5ad2758b6e3b325e4cc4c7ac6c7c4a9f,MsMpEng FileIO/Read sdengin2.dll.mui,05/16/2022 04:14:27
+371,File Open,admin4418,121.36.44.18,a26d59f2a7cc54185cf7d74e68b4c204,MsMpEng FileIO/Read security_watermark.jpg,05/16/2022 04:14:28
+372,File Open,admin4418,121.36.44.18,2be76a3741d2b6ba2738b5db36ff7ddd,MsMpEng FileIO/Read img7.jpg,05/16/2022 04:14:28
+373,File Open,admin4418,121.36.44.18,1a84cb48cdef8f1f83eb5c6742c5415d,MsMpEng FileIO/Read 29.jpg,05/16/2022 04:14:29
+374,File Open,admin4418,121.36.44.18,327087243e9d52329ddd5cdf914000f8,MsMpEng FileIO/Read img1.jpg,05/16/2022 04:14:30
+375,File Open,admin4418,121.36.44.18,f1ca809c39b455d79d897908cb6f6d7a,MsMpEng FileIO/Read background_roomtracing_05.jpg,05/16/2022 04:14:30
+376,File Open,admin4418,121.36.44.18,606f6d6d85eba958dfa9c2f4c5899121,MsMpEng FileIO/Read theme_photo_greentreetops_background.jpg,05/16/2022 04:14:30
+377,File Open,admin4418,121.36.44.18,bf5f44ed66564abfbe6974eda91fbc82,MsMpEng FileIO/Read microsoftsolitairewidetile.scale-200.jpg,05/16/2022 04:14:30
+378,File Open,admin4418,121.36.44.18,08661bb47920e5dc34b3d8c5323a8a80,MsMpEng FileIO/Read thirdpartynotice.txt,05/16/2022 04:14:31
+379,File Open,admin35254,121.36.35.254,642cf6c799dad50354f09641857e0b70,MsMpEng FileIO/Read img0.jpg,05/16/2022 05:28:27
+380,File Open,admin35254,121.36.35.254,dda14a2b97823a6086cc420d7c658dae,MsMpEng FileIO/Read SharpBitsConsole.zip,05/16/2022 05:28:46
+381,File Open,admin35254,121.36.35.254,ac2024f975df3855932f816f5d774481,MsMpEng FileIO/Read img0.jpg,05/16/2022 05:28:46
+382,File Open,admin4418,121.36.44.18,363688aeb6318e7bc5db8b32210606d8,svchost FileIO/Read $IGIO7SG.txt,05/16/2022 07:03:12
+383,File Open,admin4418,121.36.44.18,668074db4cdd7f9c933b294cbb926918,svchost FileIO/Read $IZ3Q9ZA.zip,05/16/2022 07:03:12
+384,File Open,admin4418,121.36.44.18,2b2a5e9b340a50a523b3a6aede3d3604,svchost FileIO/Read $I87D1UP.txt,05/16/2022 07:03:12
+385,File Open,admin35254,121.36.35.254,8307355680c14a3f6087d95640bc1401,MsMpEng FileIO/Read windows.data.pdf.dll,05/16/2022 07:10:33
+386,File Open,admin35254,121.36.35.254,272b48f6dc4ea32c8954ec30dc66822c,MsMpEng FileIO/Read xpsdocumenttargetprint.dll,05/16/2022 07:10:35
+387,File Open,admin35254,121.36.35.254,285279b211aeede6551e9e76f4ff9bf3,MsMpEng FileIO/Read windows.data.pdf.dll,05/16/2022 07:10:39
+388,File Open,admin35254,121.36.35.254,3f027d4e618d7bf835a40e2a93a346bd,MsMpEng FileIO/Read xpsdocumenttargetprint.dll,05/16/2022 07:10:40
+389,File Open,admin4418,121.36.44.18,1c2dd3a900671937b8e1aaab83461bc4,MsMpEng FileIO/Read AppCache132971319103885177.txt.~tmp,05/16/2022 07:44:25
+390,File Open,admin4418,121.36.44.18,e9223fd724e7f13950c6d8f582ff4756,MsMpEng FileIO/Read 0.0.filtertrie.intermediate.txt,05/16/2022 07:44:26
+391,File Open,admin35254,121.36.35.254,b0eca049da725b3f89bfda1c361b79a7,svchost FileIO/Read $IO887KE.zip,05/16/2022 11:07:42
+392,File Open,admin35254,121.36.35.254,962773d169a0ef48ce4249d83ec14737,svchost FileIO/Read $IW5TSVM.txt,05/16/2022 11:07:42
+393,File Write,admin35254,121.36.35.254,4d8b8e690570ffd9901ae316ac0ffedc,SearchUI FileIO/Write 0.2.filtertrie.intermediate.txt,05/16/2022 15:32:03
+394,File Write,admin35254,121.36.35.254,64cabbc576756c97f77f917d38d3eaac,SearchUI FileIO/Write 0.1.filtertrie.intermediate.txt,05/16/2022 15:32:03
+395,File Open,admin35254,121.36.35.254,e39e4220852e733c11c0a283e185f560,SearchUI FileIO/Read AppsConversions.txt,05/16/2022 15:32:03
+396,File Open,admin35254,121.36.35.254,11e922e53328ba2081287d775617e000,SearchUI FileIO/Read Appssynonyms.txt,05/16/2022 15:32:03
+397,File Write,admin35254,121.36.35.254,a83183068aecdff206ed9edb89063c3d,SearchUI FileIO/Write AppCache132971601387583861.txt.~tmp,05/16/2022 15:32:03
+398,File Open,admin35254,121.36.35.254,ca643fab434214b4f2f390344c58b541,SearchUI FileIO/Read AppsGlobals.txt,05/16/2022 15:32:03
+399,File Write,admin35254,121.36.35.254,d2be07cfcb7c43b1c3240e2a5346af22,SearchUI FileIO/Write 0.0.filtertrie.intermediate.txt,05/16/2022 15:32:03
+400,File Open,admin4418,121.36.44.18,525ec1342bfab3ced6f6dc3a633c6e82,MsMpEng FileIO/Read 0.0.filtertrie.intermediate.txt,05/16/2022 19:44:26
+401,File Open,admin4418,121.36.44.18,fbea26b44d3996f933c07624d5927ac6,Microsoft.SharePoint FileIO/Read telemetry-dll-ramp-value.txt,05/16/2022 21:14:46
+402,File Write,admin4418,121.36.44.18,e66bd4f0fb6e810e3bea18f2933aa33d,Microsoft.SharePoint FileIO/Write telemetry-dll-ramp-value.txt,05/16/2022 21:14:46
+403,File Open,admin4418,121.36.44.18,883b1856d364af1af5ce6188e2b14ab0,MsMpEng FileIO/Read telemetry-dll-ramp-value.txt,05/16/2022 21:14:46
+404,File Open,admin35254,121.36.35.254,fbe39bf4803fffac825be27880823452,LogonUI FileIO/Read LockScreen___1530_0780_notdimmed.jpg,05/16/2022 21:16:27
+405,File Open,admin35254,121.36.35.254,773526db142adf55c76228afbf2094c9,explorer FileIO/Read CachedImage_1530_780_POS4.jpg,05/16/2022 21:16:28
+406,File Write,admin35254,121.36.35.254,2344b5adeb4e57f5956769aad83068ef,explorer FileIO/Write CachedImage_1530_780_POS4.jpg,05/16/2022 21:16:28
+407,File Open,admin35254,121.36.35.254,5a88b69b6b20c756b6419b1992c057ec,explorer FileIO/Read img0.jpg,05/16/2022 21:16:28
+408,File Open,admin35254,121.36.35.254,7b5edeb82286b908fe94d750462b0cc8,explorer FileIO/Read $IO887KE.zip,05/16/2022 21:16:29
+409,File Write,admin35254,121.36.35.254,a66557eca78f240d5eef746f5ba5c439,explorer FileIO/Write test_logon.txt.lnk,05/16/2022 21:23:39
+410,File Write,admin35254,121.36.35.254,17a8404955ca82f2c796bab84b196c16,mmc FileIO/Write test_logon.txt,05/16/2022 21:23:39
+411,File Write,admin35254,121.36.35.254,6c3f63ffe7546e8c56f145da82999a00,explorer FileIO/Write $IHRF2BI.txt,05/16/2022 21:24:10
+412,File Open,admin35254,121.36.35.254,78b08cdb94bfae92209505c885efbb77,explorer FileIO/Read $IHRF2BI.txt,05/16/2022 21:24:10
+413,File Write,admin35254,121.36.35.254,bf5fbb2efe97e296ed2f9395848e9790,explorer FileIO/Write anomaly_collect_time.txt.lnk,05/16/2022 21:30:35
+414,File Open,admin4418,121.36.44.18,c8c9007de17eb0fcedde4d1a58e859bd,StartMenuExperienceHost FileIO/Read {BD6AF6C1-1942-4F4C-8180-E2432CB8996C}-Image448.jpg,05/16/2022 22:09:46
+415,File Open,admin35254,121.36.35.254,b2812f54b5c605786e11bcf0246558e0,svchost FileIO/Read $IHRF2BI.txt,05/16/2022 23:27:42
+416,File Open,admin35254,121.36.35.254,701f812aac10c655a487fb395d0ee237,svchost FileIO/Read $IW5TSVM.txt,05/16/2022 23:27:42
+417,File Open,admin35254,121.36.35.254,e2ea5d3c71990b0c2ba5ba410f655868,svchost FileIO/Read $IO887KE.zip,05/16/2022 23:27:42
+418,File Open,admin4418,121.36.44.18,a15e5c2cfb15f018cb72e3149f4cca81,MsMpEng FileIO/Read AppCache132971893910441405.txt.~tmp,05/16/2022 23:42:25
+419,File Open,admin4418,121.36.44.18,ce41ba9e40242ddfdefb971059c7cb00,MsMpEng FileIO/Read 0.0.filtertrie.intermediate.txt,05/16/2022 23:42:26
+420,WWW Visit,admin35254,121.36.35.254,791f34ec94da2ff216763132b8745351,chrome  TcpIp/Send  192.168.0.110 to 204.79.197.200,05/17/2022 01:46:21
+421,WWW Visit,admin35254,121.36.35.254,23d03fedd3dbae2d2344b6aee91cd5d5,chrome  TcpIp/Recv  192.168.0.110 to 204.79.197.200,05/17/2022 01:46:21
+422,WWW Visit,admin35254,121.36.35.254,4bf1ac7869beb823e2a223a7adad0fee,chrome  TcpIp/Send  192.168.0.110 to 103.215.142.108,05/17/2022 01:46:27
+423,WWW Visit,admin35254,121.36.35.254,7d267ef0370f93d64038e590bfebb07d,chrome  TcpIp/Recv  192.168.0.110 to 103.215.142.108,05/17/2022 01:46:27
+424,WWW Visit,admin35254,121.36.35.254,32ac07a2dbc92c213e461dc3aad0e038,chrome  TcpIp/Recv  192.168.0.110 to 20.190.144.163,05/17/2022 01:46:27
+425,WWW Visit,admin35254,121.36.35.254,1b1adfabef67e4250af5f70d38394cc5,chrome  TcpIp/Send  192.168.0.110 to 168.63.134.114,05/17/2022 01:46:27
+426,WWW Visit,admin35254,121.36.35.254,b67c828972f65d9e80cd987de462d00f,chrome  TcpIp/Recv  192.168.0.110 to 168.63.134.114,05/17/2022 01:46:27
+427,WWW Visit,admin35254,121.36.35.254,926d8f58837c1000b7f9cbdee5479567,chrome  TcpIp/Send  192.168.0.110 to 20.190.144.161,05/17/2022 01:46:27
+428,WWW Visit,admin35254,121.36.35.254,a8329f71e92d99c25b0ce21b127a402e,chrome  TcpIp/Recv  192.168.0.110 to 20.190.144.161,05/17/2022 01:46:27
+429,WWW Visit,admin35254,121.36.35.254,61be32e009e572084a2a749415ac091e,chrome  TcpIp/Send  192.168.0.110 to 20.190.144.163,05/17/2022 01:46:27
+430,WWW Visit,admin35254,121.36.35.254,e0cf9e99c34377df258cf9135e86eaa0,chrome  TcpIp/Send  192.168.0.110 to 203.205.250.113,05/17/2022 01:46:28
+431,WWW Visit,admin35254,121.36.35.254,acd67b7915267eed8ed34bb7c0cc5c61,chrome  TcpIp/Recv  192.168.0.110 to 203.205.250.113,05/17/2022 01:46:28
+432,WWW Visit,admin35254,121.36.35.254,09827d50035be8e02f9726b28574339c,chrome  TcpIp/Send  192.168.0.110 to 202.89.233.100,05/17/2022 01:46:29
+433,WWW Visit,admin35254,121.36.35.254,357665e1e4a0f391aea0fd9d48ebd012,chrome  TcpIp/Recv  192.168.0.110 to 202.89.233.100,05/17/2022 01:46:29
+434,WWW Visit,admin35254,121.36.35.254,bf781da884e220c33198f1a052dfc4fc,chrome  TcpIp/Send  192.168.0.110 to 119.28.164.206,05/17/2022 01:46:29
+435,WWW Visit,admin35254,121.36.35.254,ca6539e75f3d7027f99dfd2b361e6eba,chrome  TcpIp/Recv  192.168.0.110 to 119.28.164.206,05/17/2022 01:46:29
+436,WWW Visit,admin35254,121.36.35.254,954fe337603b9fcbc8a33c43db0e8bff,chrome  TcpIp/Send  192.168.0.110 to 220.181.33.11,05/17/2022 01:46:30
+437,WWW Visit,admin35254,121.36.35.254,607bcb369fdabccdb845ded1853ac66c,chrome  TcpIp/Recv  192.168.0.110 to 220.181.33.11,05/17/2022 01:46:30
+438,WWW Visit,admin35254,121.36.35.254,f29e255888f473f9df8d1467ee49ed1c,chrome  TcpIp/Send  192.168.0.110 to 103.15.99.82,05/17/2022 01:46:30
+439,WWW Visit,admin35254,121.36.35.254,dd677e198b5623e976d105fb0f2574c3,chrome  TcpIp/Recv  192.168.0.110 to 103.15.99.82,05/17/2022 01:46:30
+440,WWW Visit,admin35254,121.36.35.254,46d12acd3e22d59562ab8dfb291b3e88,chrome  TcpIp/Send  192.168.0.110 to 113.113.67.41,05/17/2022 01:46:30
+441,WWW Visit,admin35254,121.36.35.254,8297e448507177e115c4696ff1dfce30,chrome  TcpIp/Recv  192.168.0.110 to 113.113.67.41,05/17/2022 01:46:30
+442,WWW Visit,admin35254,121.36.35.254,4b23c48e22f59d06ae72cdf430c58575,chrome  TcpIp/Send  192.168.0.110 to 203.205.137.52,05/17/2022 01:46:31
+443,WWW Visit,admin35254,121.36.35.254,b2cd2473c82f2a63c5ddb2af7ebdcfb4,chrome  TcpIp/Recv  192.168.0.110 to 203.205.137.52,05/17/2022 01:46:31
+444,WWW Visit,admin35254,121.36.35.254,ace607eb6c4e4bc62d7cdbc4b1f96054,chrome  TcpIp/Recv  192.168.0.110 to 192.144.195.62,05/17/2022 01:46:33
+445,WWW Visit,admin35254,121.36.35.254,ce8383ce0bff2edc75a57db35b9365c0,chrome  TcpIp/Recv  192.168.0.110 to 118.89.204.198,05/17/2022 01:46:33
+446,WWW Visit,admin35254,121.36.35.254,d117fcc97eeafab5af3cac5128b15a23,chrome  TcpIp/Send  192.168.0.110 to 192.144.195.62,05/17/2022 01:46:33
+447,WWW Visit,admin35254,121.36.35.254,3e4d514caf7faa0e71d5d376dbb2a1e5,chrome  TcpIp/Send  192.168.0.110 to 118.89.204.198,05/17/2022 01:46:33
+448,WWW Visit,admin35254,121.36.35.254,c5597a40d3d8c2de58a1e148db50af49,chrome  TcpIp/Send  192.168.0.110 to 220.181.131.229,05/17/2022 01:46:35
+449,WWW Visit,admin35254,121.36.35.254,cc5a309897a6e6f553b51b6768548696,chrome  TcpIp/Recv  192.168.0.110 to 220.181.131.229,05/17/2022 01:46:35
+450,WWW Visit,admin35254,121.36.35.254,31abfc06fc57ba1b286e91995591d656,chrome  TcpIp/Send  192.168.0.110 to 103.41.167.235,05/17/2022 01:46:35
+451,WWW Visit,admin35254,121.36.35.254,dd01cb92053005336080382cf86dc774,chrome  TcpIp/Recv  192.168.0.110 to 103.41.167.235,05/17/2022 01:46:35
+452,WWW Visit,admin35254,121.36.35.254,4355f60398d8f418f188194d0280ebcb,chrome  TcpIp/Recv  192.168.0.110 to 59.111.19.16,05/17/2022 01:46:36
+453,WWW Visit,admin35254,121.36.35.254,a00555444c91f332de30327d5de83272,chrome  TcpIp/Recv  192.168.0.110 to 157.148.65.35,05/17/2022 01:46:36
+454,WWW Visit,admin35254,121.36.35.254,83ef99f1531729cd8708b53225d25579,chrome  TcpIp/Send  192.168.0.110 to 59.111.160.201,05/17/2022 01:46:36
+455,WWW Visit,admin35254,121.36.35.254,068d4deec481aebf219afc1f86ca8914,chrome  TcpIp/Recv  192.168.0.110 to 59.111.160.201,05/17/2022 01:46:36
+456,WWW Visit,admin35254,121.36.35.254,29a43661668cb944127423a028162173,chrome  TcpIp/Send  192.168.0.110 to 157.148.65.35,05/17/2022 01:46:36
+457,WWW Visit,admin35254,121.36.35.254,646b2f159933590d630fc1768f783e44,chrome  TcpIp/Send  192.168.0.110 to 59.111.19.16,05/17/2022 01:46:36
+458,File Write,admin35254,121.36.35.254,a69ec05cc3fb61ee0034dbf0ac58a472,explorer FileIO/Write benign_0515.txt.lnk,05/17/2022 01:46:39
+459,WWW Visit,admin35254,121.36.35.254,ec3094133545458be9288ae022167f20,chrome  TcpIp/Send  192.168.0.110 to 172.217.27.19,05/17/2022 01:51:42
+460,WWW Visit,admin35254,121.36.35.254,dd475d043dd791b703754cdd7f95a293,chrome  TcpIp/Recv  192.168.0.110 to 172.217.27.19,05/17/2022 01:51:42
+461,WWW Visit,admin35254,121.36.35.254,849b0c94acad2369a5fc889510b06f3d,chrome  TcpIp/Send  192.168.0.110 to 203.208.39.226,05/17/2022 02:03:51
+462,WWW Visit,admin35254,121.36.35.254,f9e0db5c3dfcb421af046ec78fe565ce,chrome  TcpIp/Recv  192.168.0.110 to 203.208.39.226,05/17/2022 02:03:51
+463,WWW Visit,admin35254,121.36.35.254,8a542961b774603f0dabc1c95f3caeb9,chrome  TcpIp/Recv  192.168.0.110 to 130.211.36.94,05/17/2022 02:20:23
+464,WWW Visit,admin35254,121.36.35.254,570182b73616d1592aebd736588a4133,chrome  TcpIp/Send  192.168.0.110 to 130.211.36.94,05/17/2022 02:20:23
+465,WWW Visit,admin35254,121.36.35.254,335b322b896c805676a5e2b1acd3273b,chrome  TcpIp/Send  192.168.0.110 to 203.208.50.162,05/17/2022 02:34:27
+466,WWW Visit,admin35254,121.36.35.254,25b668b7fd9a7aa48a8b72b826a9d4ef,chrome  TcpIp/Recv  192.168.0.110 to 203.208.50.162,05/17/2022 02:34:27
+467,WWW Visit,admin35254,121.36.35.254,7242679bdc0e7662838fea0fd6e58693,chrome  TcpIp/Send  192.168.0.110 to 58.63.233.98,05/17/2022 02:52:27
+468,WWW Visit,admin35254,121.36.35.254,20c6adbe9e8270dd3642afdb1982b20f,chrome  TcpIp/Recv  192.168.0.110 to 58.63.233.98,05/17/2022 02:52:27
+469,File Open,admin4418,121.36.44.18,ab20d62957e590e59b43eff9feded937,MsMpEng FileIO/Read AppCache132972039113420581.txt.~tmp,05/17/2022 03:44:26
+470,File Open,admin4418,121.36.44.18,fc097f6f08322db738f4ffb52a29d865,MsMpEng FileIO/Read 0.0.filtertrie.intermediate.txt,05/17/2022 03:44:26
+471,File Open,admin4418,121.36.44.18,a2d2e8f4e5d0addfaf67227d72ceab6a,MsMpEng FileIO/Read img0_768x1366.jpg,05/17/2022 04:14:27
+472,File Open,admin4418,121.36.44.18,e84e254992e35cb2f4da9d5f45da38ee,MsMpEng FileIO/Read img2.jpg,05/17/2022 04:14:27
+473,File Open,admin4418,121.36.44.18,51d4b4d28cf91bb4a67747fe92765ca5,MsMpEng FileIO/Read sdengin2.dll.mui,05/17/2022 04:14:28
+474,File Open,admin4418,121.36.44.18,606ee9662289fb99ae73da68eeb6c2b6,MsMpEng FileIO/Read security_watermark.jpg,05/17/2022 04:14:29
+475,File Open,admin4418,121.36.44.18,437cf15c513aaffa437293748584bdf4,MsMpEng FileIO/Read img7.jpg,05/17/2022 04:14:29
+476,File Open,admin4418,121.36.44.18,bf22364bc8f6a3f28eab1cdf5cc56e55,MsMpEng FileIO/Read 29.jpg,05/17/2022 04:14:30
+477,File Open,admin4418,121.36.44.18,9c70c59d1bd7e8a256decadcd8e30b84,MsMpEng FileIO/Read theme_photo_greentreetops_background.jpg,05/17/2022 04:14:31
+478,File Open,admin4418,121.36.44.18,7ecb99256c8a821c62ba14d0073b33d0,MsMpEng FileIO/Read microsoftsolitairewidetile.scale-200.jpg,05/17/2022 04:14:31
+479,File Open,admin4418,121.36.44.18,04e2f40ae84e11e884342b197fb315ca,MsMpEng FileIO/Read background_roomtracing_05.jpg,05/17/2022 04:14:31
+480,File Open,admin4418,121.36.44.18,5b593d0931df4d62f400796448dfdaae,MsMpEng FileIO/Read thirdpartynotice.txt,05/17/2022 04:14:32
+481,File Open,admin4418,121.36.44.18,4b758538e0764623a67ee23855c8c5f3,MsMpEng FileIO/Read img1.jpg,05/17/2022 04:14:32
+482,File Open,admin4418,121.36.44.18,1af6e9b24d75e93f1b57bb69e2c97c2f,MsMpEng FileIO/Read img3.jpg,05/17/2022 04:14:33
+483,File Open,admin4418,121.36.44.18,6ee24f4ac1857db543b92d52ff127e88,MsMpEng FileIO/Read tabletextserviceyi.txt,05/17/2022 04:14:33
+484,File Open,admin4418,121.36.44.18,9e2bd3500be91ef64ea401a86a0e3586,MsMpEng FileIO/Read theme_photo_autumnleaves_background.jpg,05/17/2022 04:14:33
+485,File Open,admin4418,121.36.44.18,0389e7c27054650d9e635b03f488d6a7,MsMpEng FileIO/Read theme_illustration_seasons_winter_thumbnail.jpg,05/17/2022 04:14:33
+486,File Open,admin4418,121.36.44.18,1544e9a4852dda02f49c4ece6c8f77ec,MsMpEng FileIO/Read background_roomtracing_03.jpg,05/17/2022 04:14:33
+487,File Open,admin4418,121.36.44.18,b67e7f2bf78a2e2237eb3457a9205f9b,MsMpEng FileIO/Read motioncontroller_hero.jpg,05/17/2022 04:14:33
+488,File Open,admin4418,121.36.44.18,0a258057467093fa612cb89ef5e55647,MsMpEng FileIO/Read 34.jpg,05/17/2022 04:14:34
+489,File Open,admin4418,121.36.44.18,e580af5388a1114c4fd6a9e22695adb6,MsMpEng FileIO/Read music_offline_demo_page2.jpg,05/17/2022 04:14:34
+490,File Open,admin4418,121.36.44.18,05a8813b577ccc6fe036b5778b66663f,MsMpEng FileIO/Read windows.data.pdf.dll.mun,05/17/2022 04:14:35
+491,File Open,admin4418,121.36.44.18,1385c7e1876b3f96ec864f5e3dcf907b,MsMpEng FileIO/Read motion_zoominright.jpg,05/17/2022 04:14:36
+492,File Open,admin4418,121.36.44.18,1b1550eb8b5b3eed1cba6f40a93a0e6b,MsMpEng FileIO/Read background_safety_objects.jpg,05/17/2022 04:14:36
+493,File Open,admin4418,121.36.44.18,7d874a98224c2a49762495a203d1264b,MsMpEng FileIO/Read 39.jpg,05/17/2022 04:14:37
+494,File Open,admin4418,121.36.44.18,f27c1b34a615486068a5f1c298da06bd,MsMpEng FileIO/Read 40.jpg,05/17/2022 04:14:39
+495,File Open,admin4418,121.36.44.18,205a2a672953b2d327d214ddb5734126,MsMpEng FileIO/Read theme_photo_watercolor_thumbnail_dark.jpg,05/17/2022 04:14:40
+496,File Open,admin4418,121.36.44.18,ea27779059fb47788536f7d057f5ca12,MsMpEng FileIO/Read 4.jpg,05/17/2022 04:14:40
+497,File Open,admin4418,121.36.44.18,48d131454da5ba4ce5dc0d5d3c5fe2d2,MsMpEng FileIO/Read sticker_icon_gravel.jpg,05/17/2022 04:14:41
+498,File Open,admin4418,121.36.44.18,2d3f4036641e1e319395ed6874e5612f,MsMpEng FileIO/Read security_watermark.jpg,05/17/2022 04:14:42
+499,File Open,admin4418,121.36.44.18,efec14be44ab8500b9211f44cfb131c4,MsMpEng FileIO/Read none.jpg,05/17/2022 04:14:42
+500,File Open,admin4418,121.36.44.18,4bafe275fefd09ccbde33bd5546ed02d,MsMpEng FileIO/Read notice.txt,05/17/2022 04:14:43
+501,File Open,admin4418,121.36.44.18,54a9e39e9bc54f94cdd3c96e211b4a0c,MsMpEng FileIO/Read windows.data.pdf.dll,05/17/2022 04:14:43
+502,File Open,admin4418,121.36.44.18,3afb1b75baf6b709b79bc6b82a367e70,MsMpEng FileIO/Read img8.jpg,05/17/2022 04:14:44
+503,File Open,admin4418,121.36.44.18,651ec2debb775a64d64075bd9a2c8252,MsMpEng FileIO/Read 27.jpg,05/17/2022 04:14:44
+504,File Open,admin4418,121.36.44.18,2b512cb0cb3d6cade36fad0daca8decc,MsMpEng FileIO/Read background_forwarddirection_deskscale.jpg,05/17/2022 04:14:48
+505,File Open,admin4418,121.36.44.18,b32ee1b256c154137524bafec435399c,MsMpEng FileIO/Read img0_1366x768.jpg,05/17/2022 04:14:48
+506,File Open,admin4418,121.36.44.18,d91039a73a5fad7d91c98f2956b10d84,MsMpEng FileIO/Read theme_illustration_seasons_winter_thumbnail_dark.jpg,05/17/2022 04:14:48
+507,File Open,admin4418,121.36.44.18,d921cd205f660b4024c032505b14708f,MsMpEng FileIO/Read 12.jpg,05/17/2022 04:14:48
+508,File Open,admin4418,121.36.44.18,c1b7478f93b3c91c5eaeb65b9eed43b9,MsMpEng FileIO/Read aboutadsgenericbackgroundimage.jpg,05/17/2022 04:14:48
+509,File Open,admin4418,121.36.44.18,26a9facefa36391addb383ab930d23ad,MsMpEng FileIO/Read sdclt.exe.mui,05/17/2022 04:14:49
+510,File Open,admin4418,121.36.44.18,ff27e842531c075f633b7c23de1b8ddc,MsMpEng FileIO/Read tabletextservicearray.txt,05/17/2022 04:14:50
+511,File Open,admin4418,121.36.44.18,cb65e50e3e361cd349af45fea37b45b2,MsMpEng FileIO/Read 34.jpg,05/17/2022 04:14:51
+512,File Open,admin4418,121.36.44.18,c92247059a5af0133470b956ea076e07,MsMpEng FileIO/Read dmr_120.jpg,05/17/2022 04:14:52
+513,File Open,admin4418,121.36.44.18,0caa1c4ae5de383163418c6db7c70925,MsMpEng FileIO/Read about_mocking.help.txt,05/17/2022 04:14:52
+514,File Open,admin4418,121.36.44.18,40da8795d412c94a198326418c642a75,MsMpEng FileIO/Read theme_photo_sunlitforest_thumbnail.jpg,05/17/2022 04:14:53
+515,File Open,admin4418,121.36.44.18,53a4e7aeea069527d01847ce0b98874f,MsMpEng FileIO/Read wmpnss_color48.jpg,05/17/2022 04:14:53
+516,File Open,admin4418,121.36.44.18,005905cc1da20f53ed2ef036d433c28c,MsMpEng FileIO/Read theme_illustration_seasons_fall_thumbnail.jpg,05/17/2022 04:14:54
+517,File Open,admin4418,121.36.44.18,98ebbf1cc2913729d61bd9f164609456,MsMpEng FileIO/Read img10.jpg,05/17/2022 04:14:55
+518,File Open,admin4418,121.36.44.18,4e9ad48ad40ffdca69a198ac7855a733,MsMpEng FileIO/Read theme_photo_greenclovers_background.jpg,05/17/2022 04:14:55
+519,File Open,admin4418,121.36.44.18,0832b31f2121fd71af66efd2d4a2605d,MsMpEng FileIO/Read theme_photo_sunlitforest_thumbnail_dark.jpg,05/17/2022 04:14:55
+520,File Open,admin4418,121.36.44.18,1b6f0bf21f394bebc49f5b90f9d0cb23,MsMpEng FileIO/Read background_roomtracing_01.jpg,05/17/2022 04:14:57
+521,File Open,admin4418,121.36.44.18,31026fc10eab9767311e9cdc8dbae5ab,MsMpEng FileIO/Read theme_photo_springdandelion_thumbnail_dark.jpg,05/17/2022 04:14:57
+522,File Open,admin4418,121.36.44.18,92b23431502ea4dbb400214b42257770,MsMpEng FileIO/Read archive.zip,05/17/2022 04:14:58
+523,File Open,admin4418,121.36.44.18,4b9d9ca9d327ace970e9c02c10c6d17b,MsMpEng FileIO/Read wmpnss_color120.jpg,05/17/2022 04:15:00
+524,File Open,admin4418,121.36.44.18,9c2c99f97f6b22cf055f7d46f7413942,MsMpEng FileIO/Read background_hp_hmd.jpg,05/17/2022 04:15:00
+525,File Open,admin4418,121.36.44.18,89405eaeabbe6d39f594519ef3609344,MsMpEng FileIO/Read 91.jpg,05/17/2022 04:15:00
+526,File Open,admin4418,121.36.44.18,004af018a4ea3ef3ff7327819fc564c2,MsMpEng FileIO/Read 39.jpg,05/17/2022 04:15:00
+527,File Open,admin4418,121.36.44.18,09872543d25c1123d50b40ee5dd9a26c,MsMpEng FileIO/Read Autoruns.zip,05/17/2022 04:15:21
+528,File Open,admin4418,121.36.44.18,b1b4bdcd84cf69c98874132de292f0a4,MsMpEng FileIO/Read SharpBitsConsole.zip,05/17/2022 04:15:22
+529,File Open,admin4418,121.36.44.18,aad7230528e0cccdf0b8ee028289e9f9,MsMpEng FileIO/Read Mimikatz.zip,05/17/2022 04:15:22
+530,File Open,admin35254,121.36.35.254,2f57e062666bbd4f4fc4451f1eaaf632,MsMpEng FileIO/Read img0.jpg,05/17/2022 05:28:28
+531,File Open,admin35254,121.36.35.254,8f1cbf52b5a32e77488754696667bce9,MsMpEng FileIO/Read SharpBitsConsole.zip,05/17/2022 05:28:47
+532,File Open,admin35254,121.36.35.254,8d945c34299f29f3a816a6c7c369b38f,MsMpEng FileIO/Read img0.jpg,05/17/2022 05:28:47
+533,File Open,admin35254,121.36.35.254,d9cb922a40fe9fb0a81ea80df2e3ae1c,svchost FileIO/Read $IO887KE.zip,05/17/2022 05:37:42
+534,File Open,admin35254,121.36.35.254,ebe96cc7610244a57ee9524231af1f61,svchost FileIO/Read $IW5TSVM.txt,05/17/2022 05:37:42
+535,File Open,admin35254,121.36.35.254,8c94658ea9571cb8a6a41fc7969cefd7,svchost FileIO/Read $IHRF2BI.txt,05/17/2022 05:37:42
+536,File Open,admin4418,121.36.44.18,ac66af972aeaa835d4166efc7a41e270,svchost FileIO/Read $IGIO7SG.txt,05/17/2022 07:43:12
+537,File Open,admin4418,121.36.44.18,90c1907749d8a2319afe3e01e1ffde02,svchost FileIO/Read $IZ3Q9ZA.zip,05/17/2022 07:43:12
+538,File Open,admin4418,121.36.44.18,f2f55a11edab1f391ea76ef50d58424c,svchost FileIO/Read $I87D1UP.txt,05/17/2022 07:43:12
+539,File Open,admin4418,121.36.44.18,2535fa838ba0a09c1669852bd04b0d67,svchost FileIO/Read $IBQ0C7D.zip,05/17/2022 07:43:12
+540,File Open,admin4418,121.36.44.18,03f8301f5def66e9bd7f168d331a82e1,MsMpEng FileIO/Read 0.0.filtertrie.intermediate.txt,05/17/2022 07:44:26
+541,File Open,admin35254,121.36.35.254,0e63d22c742382b9be91ef795e8252f5,MsMpEng FileIO/Read windows.data.pdf.dll,05/17/2022 09:10:33
+542,File Open,admin35254,121.36.35.254,8cb73b420377caa4221371331b6813bc,MsMpEng FileIO/Read xpsdocumenttargetprint.dll,05/17/2022 09:10:35
+543,File Open,admin35254,121.36.35.254,77e3dea8e130c792695dce820491d49c,MsMpEng FileIO/Read windows.data.pdf.dll,05/17/2022 09:10:39
+544,File Open,admin35254,121.36.35.254,a0bb1a3d23b7c843dfaca124538df93c,MsMpEng FileIO/Read xpsdocumenttargetprint.dll,05/17/2022 09:10:40
+545,File Open,admin35254,121.36.35.254,2fcd8c1b47686416c6abb34d74c45244,LogonUI FileIO/Read LockScreen___1920_1080_notdimmed.jpg,05/17/2022 09:47:29
+546,File Write,admin35254,121.36.35.254,dfeaa9fe79ac18942db9f7585d0d9a1f,explorer FileIO/Write CachedImage_1530_780_POS4.jpg,05/17/2022 09:47:30
+547,File Open,admin35254,121.36.35.254,99e9f4e4e1a6326244078b542d4f9cb1,explorer FileIO/Read $IHRF2BI.txt,05/17/2022 09:47:31
+548,File Open,admin35254,121.36.35.254,e305bcb10fc2ff814e8e4fc7ad362c24,explorer FileIO/Read CachedImage_1920_1080_POS4.jpg,05/17/2022 09:47:32
+549,File Write,admin35254,121.36.35.254,bc65b27ac350dde21c6b3fcbb7835684,explorer FileIO/Write CachedImage_1920_1080_POS4.jpg,05/17/2022 09:47:32
+550,File Open,admin35254,121.36.35.254,b97ee73eae7501f1b82d11f582e30672,chrome FileIO/Read describectx_cr.pdf,05/17/2022 09:55:14
+551,File Write,admin35254,121.36.35.254,bddc74ff3cc3e732adaa07f83cd426aa,explorer FileIO/Write describectx_cr.pdf.lnk,05/17/2022 09:55:14
+552,WWW Visit,admin35254,121.36.35.254,39ca2eb1af09a7a9eef4b744dec31485,chrome  TcpIp/Send  192.168.0.110 to 204.79.197.200,05/17/2022 09:55:22
+553,WWW Visit,admin35254,121.36.35.254,6cc042c2ac9c073e4d2d8704820b6f97,chrome  TcpIp/Recv  192.168.0.110 to 204.79.197.200,05/17/2022 09:55:22
+554,WWW Visit,admin35254,121.36.35.254,f1da4977d517efe01aeaeaf7e3b09947,chrome  TcpIp/Send  192.168.0.110 to 220.181.38.148,05/17/2022 09:55:35
+555,WWW Visit,admin35254,121.36.35.254,2b3674ed0e14efac26e361e40a945fff,chrome  TcpIp/Recv  192.168.0.110 to 220.181.38.148,05/17/2022 09:55:35
+556,WWW Visit,admin35254,121.36.35.254,5beff02482e3b4ca699bf477b675f943,chrome  TcpIp/Send  192.168.0.110 to 103.235.46.39,05/17/2022 09:55:35
+557,WWW Visit,admin35254,121.36.35.254,2f41553d50852f17c1a63772c7bd6563,chrome  TcpIp/Recv  192.168.0.110 to 103.235.46.39,05/17/2022 09:55:35
+558,WWW Visit,admin35254,121.36.35.254,4296daa9c70296b771364de3dd50b1f4,chrome  TcpIp/Send  192.168.0.110 to 104.193.90.87,05/17/2022 09:55:36
+559,WWW Visit,admin35254,121.36.35.254,7f28fb7f6579abd9a4543a3a42780544,chrome  TcpIp/Send  192.168.0.110 to 113.105.172.38,05/17/2022 09:55:36
+560,WWW Visit,admin35254,121.36.35.254,b1a110b54b95cc3f259125453222138c,chrome  TcpIp/Recv  192.168.0.110 to 113.105.172.38,05/17/2022 09:55:36
+561,WWW Visit,admin35254,121.36.35.254,9efe5382369e1b9cd844350aa0ba070d,chrome  TcpIp/Recv  192.168.0.110 to 104.193.90.87,05/17/2022 09:55:36
+562,WWW Visit,admin35254,121.36.35.254,6d2922d835472e1fde303e067884d0f4,chrome  TcpIp/Recv  192.168.0.110 to 103.235.47.84,05/17/2022 09:55:37
+563,WWW Visit,admin35254,121.36.35.254,33643d7398725963cb2134ef069acc3c,chrome  TcpIp/Send  192.168.0.110 to 103.235.47.84,05/17/2022 09:55:37
+564,WWW Visit,admin35254,121.36.35.254,74e1f400211f01f3c006f44644f3a8a4,chrome  TcpIp/Recv  192.168.0.110 to 220.181.33.24,05/17/2022 09:55:39
+565,WWW Visit,admin35254,121.36.35.254,ccde629f53b96c4cb4d99cca6d41a5bb,chrome  TcpIp/Send  192.168.0.110 to 220.181.33.24,05/17/2022 09:55:39
+566,WWW Visit,admin35254,121.36.35.254,7d1728e8ed2e09aa9ee35452d54a3af3,chrome  TcpIp/Send  192.168.0.110 to 203.208.50.162,05/17/2022 09:59:32
+567,WWW Visit,admin35254,121.36.35.254,81462c943f9a2413a9e34f61e7803a7d,chrome  TcpIp/Recv  192.168.0.110 to 203.208.50.162,05/17/2022 09:59:32
+568,WWW Visit,admin35254,121.36.35.254,bb374c2609f1b963da7ef5a9386ea41d,chrome  TcpIp/Send  192.168.0.110 to 113.113.67.33,05/17/2022 10:03:07
+569,WWW Visit,admin35254,121.36.35.254,405f4c2280379bf6ee02a0cbb0624d97,chrome  TcpIp/Recv  192.168.0.110 to 113.113.67.33,05/17/2022 10:03:07
+570,WWW Visit,admin35254,121.36.35.254,f4b9dfc66bec1fac7cd44fd7559e1ade,chrome  TcpIp/Recv  192.168.0.110 to 171.107.85.36,05/17/2022 10:03:12
+571,WWW Visit,admin35254,121.36.35.254,ac573a6d5293340d24733b99061335d7,chrome  TcpIp/Send  192.168.0.110 to 171.107.85.36,05/17/2022 10:03:12
+572,WWW Visit,admin35254,121.36.35.254,e1506cfeb721520bf6eb5dbbfa2ad7ea,chrome  TcpIp/Recv  192.168.0.110 to 180.163.198.36,05/17/2022 10:03:12
+573,WWW Visit,admin35254,121.36.35.254,bfed358efd427eb1044002702d75352a,chrome  TcpIp/Send  192.168.0.110 to 180.163.198.36,05/17/2022 10:03:12
+574,WWW Visit,admin35254,121.36.35.254,99eca5ec5f9868ca0866d673c95ed883,chrome  TcpIp/Recv  192.168.0.110 to 1.182.48.36,05/17/2022 10:03:12
+575,WWW Visit,admin35254,121.36.35.254,06c3b863c7c61c672b199075833d3dbc,chrome  TcpIp/Send  192.168.0.110 to 1.182.48.36,05/17/2022 10:03:12
+576,WWW Visit,admin35254,121.36.35.254,0ea77a46a19a7089862564d7f88f9cce,chrome  TcpIp/Recv  192.168.0.110 to 113.113.73.35,05/17/2022 10:03:12
+577,WWW Visit,admin35254,121.36.35.254,09f15912a7f2cd470f7795656b9a95b2,chrome  TcpIp/Send  192.168.0.110 to 113.113.73.35,05/17/2022 10:03:12
+578,WWW Visit,admin35254,121.36.35.254,ab53e21ed2d6c2fe5fc056df0f46da69,chrome  TcpIp/Recv  192.168.0.110 to 121.32.228.38,05/17/2022 10:03:12
+579,WWW Visit,admin35254,121.36.35.254,287f64acc9dba1db1ed7ddf3f0c3287b,chrome  TcpIp/Recv  192.168.0.110 to 60.190.116.48,05/17/2022 10:03:12
+580,WWW Visit,admin35254,121.36.35.254,674f01b27477c1e4c095c25651733d67,chrome  TcpIp/Send  192.168.0.110 to 60.190.116.48,05/17/2022 10:03:12
+581,WWW Visit,admin35254,121.36.35.254,592242793bd1662a9dca398fa1f66363,chrome  TcpIp/Send  192.168.0.110 to 121.32.228.38,05/17/2022 10:03:12
+582,WWW Visit,admin35254,121.36.35.254,a34c6b12ae893e4923ae6b7ccbabb4ef,chrome  TcpIp/Recv  192.168.0.110 to 113.113.67.36,05/17/2022 10:03:12
+583,WWW Visit,admin35254,121.36.35.254,9e82510bcfa4848e4b227fb7c8e4e7ed,chrome  TcpIp/Send  192.168.0.110 to 113.113.67.36,05/17/2022 10:03:12
+584,WWW Visit,admin35254,121.36.35.254,4b1097beec2ef9a464ad31fd6abacc1d,chrome  TcpIp/Send  192.168.0.110 to 113.125.220.198,05/17/2022 10:03:12
+585,WWW Visit,admin35254,121.36.35.254,502919001f96439278f55138568bb7e8,chrome  TcpIp/Send  192.168.0.110 to 42.81.84.36,05/17/2022 10:03:12
+586,WWW Visit,admin35254,121.36.35.254,0afd9604584d26fc4694386faf0658ea,chrome  TcpIp/Recv  192.168.0.110 to 113.125.220.198,05/17/2022 10:03:12
+587,WWW Visit,admin35254,121.36.35.254,52692b79752eabcd47ec1a363d80fd69,chrome  TcpIp/Send  192.168.0.110 to 106.225.194.38,05/17/2022 10:03:12
+588,WWW Visit,admin35254,121.36.35.254,fb7cbc8cf0133f738ff18a2d228b1485,chrome  TcpIp/Recv  192.168.0.110 to 106.225.194.38,05/17/2022 10:03:12
+589,WWW Visit,admin35254,121.36.35.254,18cc182289bfff16cfdbc89aaf14131f,chrome  TcpIp/Recv  192.168.0.110 to 115.238.187.36,05/17/2022 10:03:12
+590,WWW Visit,admin35254,121.36.35.254,2fc9784d4f6dc0aa9de8f95605e8d5e2,chrome  TcpIp/Recv  192.168.0.110 to 14.215.89.36,05/17/2022 10:03:12
+591,WWW Visit,admin35254,121.36.35.254,448804bf968b7898d389bc250bb9c503,chrome  TcpIp/Send  192.168.0.110 to 14.215.89.36,05/17/2022 10:03:12
+592,WWW Visit,admin35254,121.36.35.254,f223f6ac8ea4619c37348097e251bacb,chrome  TcpIp/Recv  192.168.0.110 to 113.105.172.36,05/17/2022 10:03:12
+593,WWW Visit,admin35254,121.36.35.254,f0ee81adb95095e69402d9adea8dc3b4,chrome  TcpIp/Send  192.168.0.110 to 113.105.172.36,05/17/2022 10:03:12
+594,WWW Visit,admin35254,121.36.35.254,9580098f1bc70febf569ccccd29110ab,chrome  TcpIp/Recv  192.168.0.110 to 220.181.33.6,05/17/2022 10:03:12
+595,WWW Visit,admin35254,121.36.35.254,3dbf1a9e0219a094a850720c018f7182,chrome  TcpIp/Send  192.168.0.110 to 220.181.33.6,05/17/2022 10:03:12
+596,WWW Visit,admin35254,121.36.35.254,946f8a5c53ac51fd5ab724f8423e78b3,chrome  TcpIp/Recv  192.168.0.110 to 42.81.84.36,05/17/2022 10:03:12
+597,WWW Visit,admin35254,121.36.35.254,5226a773f15375ee047c143b762231c9,chrome  TcpIp/Send  192.168.0.110 to 115.238.187.36,05/17/2022 10:03:12
+598,WWW Visit,admin35254,121.36.35.254,f4eff81903199c59ba8ccbcbc3c5d7f8,chrome  TcpIp/Recv  192.168.0.110 to 185.10.104.109,05/17/2022 10:03:13
+599,WWW Visit,admin35254,121.36.35.254,fb380fc7915a3442246dcea8c2be4df8,chrome  TcpIp/Recv  192.168.0.110 to 123.184.99.35,05/17/2022 10:03:13
+600,WWW Visit,admin35254,121.36.35.254,120b7dbf53951d2efa7ad41102854671,chrome  TcpIp/Send  192.168.0.110 to 123.184.99.35,05/17/2022 10:03:13
+601,WWW Visit,admin35254,121.36.35.254,d036eb8b6e5adec02cb1515a70af65cd,chrome  TcpIp/Send  192.168.0.110 to 185.10.104.109,05/17/2022 10:03:13
+602,WWW Visit,admin35254,121.36.35.254,5b22ab916f98995faaa9672361160f20,chrome  TcpIp/Send  192.168.0.110 to 220.181.33.236,05/17/2022 10:03:36
+603,WWW Visit,admin35254,121.36.35.254,28ebcd4e9d81a4cf19703dc3c2264bd5,chrome  TcpIp/Send  192.168.0.110 to 113.113.67.48,05/17/2022 10:03:36
+604,WWW Visit,admin35254,121.36.35.254,e56564e97a967155bb7fecd1238e2551,chrome  TcpIp/Send  192.168.0.110 to 203.208.50.34,05/17/2022 10:28:32
+605,WWW Visit,admin35254,121.36.35.254,d3139a4a0c7794c4326fd876cf7bbbd2,chrome  TcpIp/Recv  192.168.0.110 to 203.208.50.34,05/17/2022 10:28:32
+606,WWW Visit,admin35254,121.36.35.254,5128ee01b04d6bc6875c0655b4e922ac,chrome  TcpIp/Send  192.168.0.110 to 35.227.233.235,05/17/2022 11:29:24
+607,WWW Visit,admin35254,121.36.35.254,5943b014230a51f4d1c0798ab6601a96,chrome  TcpIp/Recv  192.168.0.110 to 35.227.233.235,05/17/2022 11:29:24
+608,File Write,admin35254,121.36.35.254,cd303c6d5283ec13a07e9e02d73bf01d,SearchUI FileIO/Write AppCache132972465387613101.txt.~tmp,05/17/2022 15:32:03
+609,File Open,admin35254,121.36.35.254,d6c2add7ff84c31764062f6aa6839b92,SearchUI FileIO/Read AppsGlobals.txt,05/17/2022 15:32:03
+610,File Open,admin35254,121.36.35.254,44154e5bf0cd00689fd814e20b00f350,SearchUI FileIO/Read Appssynonyms.txt,05/17/2022 15:32:03
+611,File Open,admin35254,121.36.35.254,91f99a12d2b14f0d56e6b456442baab5,SearchUI FileIO/Read AppsConversions.txt,05/17/2022 15:32:03
+612,File Write,admin35254,121.36.35.254,6e8719e0b41273a17ef6d6fb409eaea9,SearchUI FileIO/Write 0.0.filtertrie.intermediate.txt,05/17/2022 15:32:03
+613,File Write,admin35254,121.36.35.254,70fff543478c7843c624db79a4a73c09,SearchUI FileIO/Write 0.1.filtertrie.intermediate.txt,05/17/2022 15:32:03
+614,File Write,admin35254,121.36.35.254,69b995e54e1a8dfa228e159e72435d2c,SearchUI FileIO/Write 0.2.filtertrie.intermediate.txt,05/17/2022 15:32:03
+615,File Open,admin4418,121.36.44.18,015eb83dc69b073e586d5f438ee64f57,explorer FileIO/Read CachedImage_1920_1080_POS4.jpg,05/17/2022 19:11:59
+616,File Open,admin4418,121.36.44.18,1e0ce459baacb2e94c543875ef2d4a12,MsMpEng FileIO/Read clear_night[1].jpg,05/17/2022 19:12:00
+617,File Open,admin4418,121.36.44.18,a1ffc9b2c62c611770824b3730863018,MsMpEng FileIO/Read th[3].jpg,05/17/2022 19:12:00
+618,File Open,admin4418,121.36.44.18,7ad1224c1406fb341b89dc6412e99953,MsMpEng FileIO/Read th[3].jpg,05/17/2022 19:12:00
+619,File Open,admin35254,121.36.35.254,c66e679c41157cdf4f73429d2bdfe9a9,explorer FileIO/Read CachedImage_1530_780_POS4.jpg,05/17/2022 20:38:39
+620,Logoff,admin35254,121.36.35.254,56c0e091fe0c6f8be8bb9a6624f6f6e7,admin Logoff,05/17/2022 20:39:39
+621,Logoff,admin4418,121.36.44.18,7d29c1d3cf662900f40e0ea935441c88,admin Logoff,05/17/2022 20:39:39
+622,File Open,admin4418,121.36.44.18,cfdd4e8eb3d9ac57de81e4b0023d8327,MsMpEng FileIO/Read sdengin2.dll.mui,05/18/2022 04:14:28
+623,File Open,admin4418,121.36.44.18,af11ec0be2ae3f59c9c3826feb4089a7,MsMpEng FileIO/Read img0_768x1366.jpg,05/18/2022 04:14:28
+624,File Open,admin4418,121.36.44.18,916059f885f77e75de5f6ebca2fcaa62,MsMpEng FileIO/Read security_watermark.jpg,05/18/2022 04:14:29
+625,File Open,admin4418,121.36.44.18,15aae6930d214a4364439a59ad3d3056,MsMpEng FileIO/Read img7.jpg,05/18/2022 04:14:29
+626,File Open,admin4418,121.36.44.18,bc3fe8ed4e57818df06b43b2bb7d162b,MsMpEng FileIO/Read 29.jpg,05/18/2022 04:14:30
+627,File Open,admin4418,121.36.44.18,391e22d2d93b794b78890914b400dc27,MsMpEng FileIO/Read theme_photo_greentreetops_background.jpg,05/18/2022 04:14:31
+628,File Open,admin4418,121.36.44.18,266aa8606105dc3569d5bdbaae70d338,MsMpEng FileIO/Read microsoftsolitairewidetile.scale-200.jpg,05/18/2022 04:14:31
+629,File Open,admin4418,121.36.44.18,5641dfa54d8934f99cd64f6982ef7087,MsMpEng FileIO/Read background_roomtracing_05.jpg,05/18/2022 04:14:31
+630,File Open,admin4418,121.36.44.18,778cd5c5776f56c95ddcd81510b1a2af,MsMpEng FileIO/Read img1.jpg,05/18/2022 04:14:31
+631,File Open,admin4418,121.36.44.18,41840a2efa8a4a962a30f7e479dfa008,MsMpEng FileIO/Read thirdpartynotice.txt,05/18/2022 04:14:32
+632,File Open,admin4418,121.36.44.18,7f50f14fb6f426c96086ef7ec135a35d,MsMpEng FileIO/Read background_roomtracing_03.jpg,05/18/2022 04:14:32
+633,File Open,admin4418,121.36.44.18,c8499f8ce00f04200ac7ddeec30317e8,MsMpEng FileIO/Read motioncontroller_hero.jpg,05/18/2022 04:14:32
+634,File Open,admin4418,121.36.44.18,82f5da9d54e92494d02c16460d43da0a,MsMpEng FileIO/Read theme_photo_autumnleaves_background.jpg,05/18/2022 04:14:32
+635,File Open,admin4418,121.36.44.18,227815a8824092424a2efc7c1657305b,MsMpEng FileIO/Read theme_illustration_seasons_winter_thumbnail.jpg,05/18/2022 04:14:33
+636,File Open,admin4418,121.36.44.18,cb528d27c86cabbe00b1a93fcc36e080,MsMpEng FileIO/Read tabletextserviceyi.txt,05/18/2022 04:14:33
+637,File Open,admin4418,121.36.44.18,ddb59c69d680dec101f102af0381d4fd,MsMpEng FileIO/Read 34.jpg,05/18/2022 04:14:33
+638,File Open,admin4418,121.36.44.18,2af9c9659dbce9fe713edf6275f7ec6d,MsMpEng FileIO/Read img3.jpg,05/18/2022 04:14:33
+639,File Open,admin4418,121.36.44.18,0f3b04ed414c6beb93d3339227792afc,MsMpEng FileIO/Read music_offline_demo_page2.jpg,05/18/2022 04:14:34
+640,File Open,admin4418,121.36.44.18,018506644906bd51e9274ad51d102de7,MsMpEng FileIO/Read windows.data.pdf.dll.mun,05/18/2022 04:14:34
+641,File Open,admin4418,121.36.44.18,98a3020a5d6a0d4ac352f8d19332e8a4,MsMpEng FileIO/Read motion_zoominright.jpg,05/18/2022 04:14:35
+642,File Open,admin4418,121.36.44.18,8a169b91698175836646e471eaacd0e3,MsMpEng FileIO/Read background_safety_objects.jpg,05/18/2022 04:14:36
+643,File Open,admin4418,121.36.44.18,1b99bde352b0e77fc53cfd9bf64722ec,MsMpEng FileIO/Read 39.jpg,05/18/2022 04:14:36
+644,File Open,admin4418,121.36.44.18,a621b5ab06eb3d552034aa296ec70b29,MsMpEng FileIO/Read 40.jpg,05/18/2022 04:14:38
+645,File Open,admin4418,121.36.44.18,721122ffa8b76f4732c2f33736eec6f6,MsMpEng FileIO/Read theme_photo_watercolor_thumbnail_dark.jpg,05/18/2022 04:14:39
+646,File Open,admin4418,121.36.44.18,3b7abf5164870a89e2f885aae0eff610,MsMpEng FileIO/Read 4.jpg,05/18/2022 04:14:40
+647,File Open,admin4418,121.36.44.18,5eca2368aaf4c0cf82901db2a828db85,MsMpEng FileIO/Read sticker_icon_gravel.jpg,05/18/2022 04:14:40
+648,File Open,admin4418,121.36.44.18,935e5434ab6873d64e7c052d16a0226b,MsMpEng FileIO/Read security_watermark.jpg,05/18/2022 04:14:42
+649,File Open,admin4418,121.36.44.18,f765a6d1f059f4e57a04d70e37b1eb16,MsMpEng FileIO/Read none.jpg,05/18/2022 04:14:42
+650,File Open,admin4418,121.36.44.18,11f2a6c2ec55fdbb4a1f5d992c3763ab,MsMpEng FileIO/Read notice.txt,05/18/2022 04:14:43
+651,File Open,admin4418,121.36.44.18,43a50a655966aedc8a0b3a894764cbc0,MsMpEng FileIO/Read windows.data.pdf.dll,05/18/2022 04:14:43
+652,File Open,admin4418,121.36.44.18,ae0423e54bb8116513f240724ef03aa2,MsMpEng FileIO/Read img8.jpg,05/18/2022 04:14:44
+653,File Open,admin4418,121.36.44.18,898507ea0091634dcd0bfd30ecb4e904,MsMpEng FileIO/Read 27.jpg,05/18/2022 04:14:44
+654,File Open,admin4418,121.36.44.18,8d3a71defcccff7a4aa97ddffab58072,MsMpEng FileIO/Read background_forwarddirection_deskscale.jpg,05/18/2022 04:14:45
+655,File Open,admin4418,121.36.44.18,cbdb43d75f9c20ff3984fc648859620c,MsMpEng FileIO/Read img0_1366x768.jpg,05/18/2022 04:14:45
+656,File Open,admin4418,121.36.44.18,96bc935dbd00259a80d707772e21bf3e,MsMpEng FileIO/Read 12.jpg,05/18/2022 04:14:46
+657,File Open,admin4418,121.36.44.18,18e0f36ee15f0b10c55e7c5213d3a063,MsMpEng FileIO/Read theme_illustration_seasons_winter_thumbnail_dark.jpg,05/18/2022 04:14:46
+658,File Open,admin4418,121.36.44.18,78a447baf930b5e6c2a944f203807554,MsMpEng FileIO/Read aboutadsgenericbackgroundimage.jpg,05/18/2022 04:14:46
+659,File Open,admin4418,121.36.44.18,4c8a6c99622c12c6f77db8cee156397b,MsMpEng FileIO/Read sdclt.exe.mui,05/18/2022 04:14:49
+660,File Open,admin4418,121.36.44.18,f32ea2e544ce5543f88fac882f960e5b,MsMpEng FileIO/Read tabletextservicearray.txt,05/18/2022 04:14:50
+661,File Open,admin4418,121.36.44.18,751f510b5ca2df3909e7439acbb5226a,MsMpEng FileIO/Read about_mocking.help.txt,05/18/2022 04:14:51
+662,File Open,admin4418,121.36.44.18,3d9556c6a45f6bb48c9a279bbe8edfe9,MsMpEng FileIO/Read 34.jpg,05/18/2022 04:14:51
+663,File Open,admin4418,121.36.44.18,431671aa8798d6f7139c3166f4bf0638,MsMpEng FileIO/Read wmpnss_color48.jpg,05/18/2022 04:14:52
+664,File Open,admin4418,121.36.44.18,5deef9debb96698fdef63efce29c52ff,MsMpEng FileIO/Read dmr_120.jpg,05/18/2022 04:14:52
+665,File Open,admin4418,121.36.44.18,8e9c682d73e4e775795cb8a5e46bfe1a,MsMpEng FileIO/Read theme_photo_sunlitforest_thumbnail.jpg,05/18/2022 04:14:53
+666,File Open,admin4418,121.36.44.18,da45f40604a5e56a9e49210b9ee2f60c,MsMpEng FileIO/Read theme_illustration_seasons_fall_thumbnail.jpg,05/18/2022 04:14:54
+667,File Open,admin4418,121.36.44.18,0e0d2cbf3851699328772c7cb61ce455,MsMpEng FileIO/Read theme_photo_greenclovers_background.jpg,05/18/2022 04:14:55
+668,File Open,admin4418,121.36.44.18,075c0a1a45abf347cae031bc5e014048,MsMpEng FileIO/Read img10.jpg,05/18/2022 04:14:55
+669,File Open,admin4418,121.36.44.18,6dd6045838498ed58fd23c59dd0540a8,MsMpEng FileIO/Read theme_photo_sunlitforest_thumbnail_dark.jpg,05/18/2022 04:14:55
+670,File Open,admin4418,121.36.44.18,9bd58623570fb665a9d7df4e8d855f38,MsMpEng FileIO/Read theme_photo_springdandelion_thumbnail_dark.jpg,05/18/2022 04:14:57
+671,File Open,admin4418,121.36.44.18,f256a114494d8868cb96d823a9eba633,MsMpEng FileIO/Read background_roomtracing_01.jpg,05/18/2022 04:14:57
+672,File Open,admin4418,121.36.44.18,e63e876a99baf671f303297de3f3c45d,MsMpEng FileIO/Read archive.zip,05/18/2022 04:14:58
+673,File Open,admin4418,121.36.44.18,c15b05cc1d9e292275a4d3403d235421,MsMpEng FileIO/Read 91.jpg,05/18/2022 04:14:59
+674,File Open,admin4418,121.36.44.18,b0970a2a36185e48ef0716b6616d4dbc,MsMpEng FileIO/Read background_hp_hmd.jpg,05/18/2022 04:14:59
+675,File Open,admin4418,121.36.44.18,501f9f76f7f433347822111559e0f681,MsMpEng FileIO/Read wmpnss_color120.jpg,05/18/2022 04:14:59
+676,File Open,admin4418,121.36.44.18,d3a2329b50318f4948b4507407dd833b,MsMpEng FileIO/Read 39.jpg,05/18/2022 04:15:00
+677,File Open,admin4418,121.36.44.18,a62811597335e2f8bfbaf9617475b0c0,MsMpEng FileIO/Read Autoruns.zip,05/18/2022 04:15:22
+678,File Open,admin4418,121.36.44.18,1f8d50c2095974c5507436314ba52003,MsMpEng FileIO/Read SharpBitsConsole.zip,05/18/2022 04:15:23
+679,File Open,admin4418,121.36.44.18,675852716847689d4ff40dff8ee77dfd,MsMpEng FileIO/Read Mimikatz.zip,05/18/2022 04:15:23
+680,File Open,admin4418,121.36.44.18,41a9d482fbee44399a2ca0276c2b5671,MsMpEng FileIO/Read AppCache132973047129428644.txt.~tmp,05/18/2022 07:44:27
+681,File Open,admin4418,121.36.44.18,d860a9e6a5fb17b77b1ac82a3dfcaf28,MsMpEng FileIO/Read 0.0.filtertrie.intermediate.txt,05/18/2022 07:44:27
