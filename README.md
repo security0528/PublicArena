@@ -11,7 +11,7 @@ Detailed descriptions of the attack campagins.
 ![image](https://user-images.githubusercontent.com/106502732/172382550-1e4a5827-5cad-49d1-a018-143900606067.png)
 
 # System Audit Logs
-Due to its size, the material is hosted on the Google Drive at xxxxx;
+
 ## Host A win10
 system audit logs collected on host A.
 
